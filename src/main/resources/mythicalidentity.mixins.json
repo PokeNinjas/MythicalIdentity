@@ -1,0 +1,17 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.mythicalnetwork.mythicalidentity.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "client.Matrix4fAccessor"
+  ],
+  "client": [
+    "client.LivingEntityRendererMixin",
+    "client.ModelPartCubeMixin",
+    "client.ModelPartMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

@@ -1,0 +1,58 @@
+
+{
+  "schema_version": 1,
+  "quilt_loader": {
+    "group": "com.mythicalnetwork",
+    "id": "mythicalidentity",
+    "version": "${version}",
+    "metadata": {
+      "name": "Mythical Identity",
+      "description": "Cosmetics and self-identification for Mythical Network",
+      "contributors": {
+        "Amo": "Developer",
+        "J.T. McQuigg/JT122406": "Developer"
+      },
+      "contact": {
+        "homepage": "https://example.com/",
+        "issues": "https://github.com/QuiltMC/quilt-template-mod/issues",
+        "sources": "https://github.com/QuiltMC/quilt-template-mod"
+      },
+      "icon": "assets/mythicalidentity/icon.png"
+    },
+    "intermediate_mappings": "net.fabricmc:intermediary",
+    "entrypoints": {
+      "init": {
+        "adapter": "kotlin",
+        "value": "com.mythicalnetwork.mythicalidentity.MythicalIdentity"
+      },
+      "client_init": {
+        "adapter": "kotlin",
+        "value": "com.mythicalnetwork.mythicalidentity.frontend.MythicalIdentityClient"
+      }
+    },
+    "depends": [
+      {
+        "id": "quilt_loader",
+        "versions": ">=0.18.7-"
+      },
+      {
+        "id": "quilted_fabric_api",
+        "versions": ">=4.0.0-"
+      },
+      {
+        "id": "minecraft",
+        "versions": ">=1.19.2"
+      },
+      {
+        "id": "architectury",
+        "versions": ">=6.0.37"
+      },
+      {
+        "id": "cobblemon",
+        "versions": ">=1.2.0"
+      }
+    ]
+  },
+  "mixin": "mythicalidentity.mixins.json",
+  "access_widener": "mythicalidentity.accesswidener"
+}

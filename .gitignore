@@ -40,3 +40,1332 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+/.idea/uiDesigner.xml
+/.idea/vcs.xml
+/run/.cache/quilt_loader/transform-cache-client/files.zip
+/run/.cache/quilt_loader/comms.cp
+/run/config/cobblemon/main.json
+/run/config/fabric/indigo-renderer.properties
+/run/config/quilt/qsl/registry.toml
+/run/config/modmenu.json
+/run/config/quilt-loader.txt
+/run/crash-reports/crash-2023-08-13_18.11.08.8181-quilt_loader.txt
+/run/crash-reports/crash-2023-08-13_18.23.28-client.txt
+/run/crash-reports/crash-2023-08-13_21.56.11-client.txt
+/run/logs/2023-08-13-1.log.gz
+/run/logs/2023-08-13-2.log.gz
+/run/logs/2023-08-13-3.log.gz
+/run/logs/2023-08-13-4.log.gz
+/run/logs/2023-08-13-5.log.gz
+/run/logs/2023-08-13-6.log.gz
+/run/logs/2023-08-13-7.log.gz
+/run/logs/2023-08-14-1.log.gz
+/run/logs/2023-08-14-2.log.gz
+/run/logs/2023-08-14-3.log.gz
+/run/logs/2023-08-14-4.log.gz
+/run/logs/2023-08-14-5.log.gz
+/run/logs/2023-08-14-6.log.gz
+/run/logs/2023-08-14-7.log.gz
+/run/logs/debug.log
+/run/logs/debug-1.log.gz
+/run/logs/debug-2.log.gz
+/run/logs/debug-3.log.gz
+/run/logs/debug-4.log.gz
+/run/logs/debug-5.log.gz
+/run/logs/latest.log
+/run/saves/New World/advancements/0b0a3338-3321-32ee-8738-58aa00379d42.json
+/run/saves/New World/advancements/0c375742-c902-3e90-aa08-6f9c607b7881.json
+/run/saves/New World/advancements/0dba4657-9c98-3a17-999f-e412cc5ea8b2.json
+/run/saves/New World/advancements/1b018a8a-d6f2-3b56-a2b7-8ff489be877f.json
+/run/saves/New World/advancements/1b5803ef-dab8-3673-85ae-9a9160028e1f.json
+/run/saves/New World/advancements/1c3a2857-e7ef-32a0-829f-3ff0829e8487.json
+/run/saves/New World/advancements/1c6ab893-c8be-3ad8-a14c-5cafcb89dfd5.json
+/run/saves/New World/advancements/1e82d5df-f979-3bfc-ba78-cae265f60e33.json
+/run/saves/New World/advancements/2aad58e3-54f7-330f-a72b-452f50ba116d.json
+/run/saves/New World/advancements/2b32bf3c-80b5-35b3-abab-2d4e53bbbeb0.json
+/run/saves/New World/advancements/2b83ebdc-0604-37b1-94a0-4298b1021b84.json
+/run/saves/New World/advancements/2b98548a-5e09-3029-b082-b4c99d31d926.json
+/run/saves/New World/advancements/3c7cef0c-c4d3-3eb2-a04d-c369cce398ef.json
+/run/saves/New World/advancements/3e97bd98-3fed-36a5-a2b2-bf93d544eeed.json
+/run/saves/New World/advancements/4c4af65a-e991-33a8-a762-2d145c215578.json
+/run/saves/New World/advancements/5a8bc451-c1a7-3b73-97ff-34b045dbb0ff.json
+/run/saves/New World/advancements/5d4844c1-110f-375f-8c73-6803b7a61e5d.json
+/run/saves/New World/advancements/5daba5f8-966b-3165-8089-02aaa9b1e740.json
+/run/saves/New World/advancements/6ab97267-d569-3e8b-a487-d3c860281e7e.json
+/run/saves/New World/advancements/6b53dfcf-6b4c-38dc-935a-30b749f0d474.json
+/run/saves/New World/advancements/6f525ab9-4df4-3875-8280-4904a48f9cd7.json
+/run/saves/New World/advancements/7a3400be-e31a-307d-9fe4-43aac536397b.json
+/run/saves/New World/advancements/7fc02cf2-da5a-351c-a700-aaa88bd6d88d.json
+/run/saves/New World/advancements/007fdc41-9afa-3dd2-b8c2-6d71f040d4a4.json
+/run/saves/New World/advancements/8b8434b7-4246-3db8-89e4-a51a52bc8fc9.json
+/run/saves/New World/advancements/8ce64f24-c135-3001-9ff7-8b03d3719e4f.json
+/run/saves/New World/advancements/8e20979a-9b41-35b8-8d36-ad77135df934.json
+/run/saves/New World/advancements/9c66b502-7304-3207-92e6-8d6afcf30d77.json
+/run/saves/New World/advancements/11e12ca9-fda1-31b6-8f92-6e251e7a18f2.json
+/run/saves/New World/advancements/28de3746-47a4-326a-afac-3983252542f7.json
+/run/saves/New World/advancements/29aa321a-1ce7-35de-bfab-f37fa4095c7d.json
+/run/saves/New World/advancements/29b47250-4236-34ae-8b46-7341b800b727.json
+/run/saves/New World/advancements/42c8facc-cbd2-36d2-8ac3-7dd20c6ce2a1.json
+/run/saves/New World/advancements/44e8d65a-a4b2-3c63-9ef0-950bb5685028.json
+/run/saves/New World/advancements/45c2c1e2-9dd4-3d62-8e53-82e2b4b32b4a.json
+/run/saves/New World/advancements/57e72990-8f4d-370a-9882-2dee063faae3.json
+/run/saves/New World/advancements/60d19c6d-8381-348f-9d23-cb28708609fc.json
+/run/saves/New World/advancements/62db38a8-8d21-3d78-b638-e74e59f2520a.json
+/run/saves/New World/advancements/64b1f788-7df1-3200-9eb6-3f1908ccafaa.json
+/run/saves/New World/advancements/67e801d2-e191-3522-b722-ab00d5bd7360.json
+/run/saves/New World/advancements/76e88f6f-84ed-3a54-af33-5eec444b0454.json
+/run/saves/New World/advancements/79f8754e-14dd-38b7-8860-09cab9cfb920.json
+/run/saves/New World/advancements/83f835f2-20fa-325d-8039-400fcc96db8c.json
+/run/saves/New World/advancements/90ee7131-905c-3e5a-b4c0-60424db8bd36.json
+/run/saves/New World/advancements/93bfa0b6-cc14-3c0c-8efa-0bcc48245274.json
+/run/saves/New World/advancements/094b1c52-a449-3e9f-896c-59239b943c71.json
+/run/saves/New World/advancements/122d3a74-28b3-3553-91d4-9092b640ce8e.json
+/run/saves/New World/advancements/197d9491-ff34-3fd1-8394-1aadd56cfa2c.json
+/run/saves/New World/advancements/198eff5d-ccf5-3ba5-aac5-eea0074f959b.json
+/run/saves/New World/advancements/324bf773-41c1-3c88-8191-03f2982049b1.json
+/run/saves/New World/advancements/352a2219-a032-396a-9556-4b75f1d6ec41.json
+/run/saves/New World/advancements/365faa2a-981e-3ca7-bdac-725f58fc8c84.json
+/run/saves/New World/advancements/393f993c-07f1-322f-8af5-e61da4aa15d9.json
+/run/saves/New World/advancements/479b5936-9fd6-3f34-a6bd-40db6d59d9f4.json
+/run/saves/New World/advancements/483a9f6c-d89c-3cd9-9ee4-92f25a76c0c5.json
+/run/saves/New World/advancements/598e33a2-e636-3db6-ba2f-6b9836ee1bdd.json
+/run/saves/New World/advancements/651bbe0e-980e-38d7-8fbb-83ebfec85347.json
+/run/saves/New World/advancements/671fc71d-f6cb-3d6a-91ee-4151a2cbcf9a.json
+/run/saves/New World/advancements/1714a812-885f-3243-b534-9a660fba6e8b.json
+/run/saves/New World/advancements/01986ee6-ca3c-3b64-bdcd-02039da5963f.json
+/run/saves/New World/advancements/4805b7f8-997e-33ab-826d-ca981b97526b.json
+/run/saves/New World/advancements/5763de83-e0ac-32bb-9102-41b754fdcdbe.json
+/run/saves/New World/advancements/6634a609-43e8-3247-9054-c77a3a707d73.json
+/run/saves/New World/advancements/07621e04-f7a0-3030-986e-2083b375ff85.json
+/run/saves/New World/advancements/8878ef4a-de27-32df-b636-12a0a607ca5d.json
+/run/saves/New World/advancements/9345ca96-31f6-3ef6-a1e6-265e7320184d.json
+/run/saves/New World/advancements/9662db8b-9062-3256-9f5d-83caa676c3d7.json
+/run/saves/New World/advancements/55199b58-d04f-3d22-9ce2-5472509a024b.json
+/run/saves/New World/advancements/63112fde-b0db-328f-b581-077db247c627.json
+/run/saves/New World/advancements/64579c2e-a410-37b0-995d-5aa98a8b0304.json
+/run/saves/New World/advancements/66157e7a-53e0-3299-9208-7674efd706f9.json
+/run/saves/New World/advancements/79588fdd-6216-324d-ac44-68b387fcfb5c.json
+/run/saves/New World/advancements/87838b30-d4f9-3495-97a3-26161a757982.json
+/run/saves/New World/advancements/94590a34-bd24-3d07-8605-517566cb65fe.json
+/run/saves/New World/advancements/596302c2-a8ac-3ac1-b055-653042871aa0.json
+/run/saves/New World/advancements/792573f3-7356-38b9-b291-6ba6c7176e80.json
+/run/saves/New World/advancements/942531dd-7690-3c0a-ad42-657bb212e7b6.json
+/run/saves/New World/advancements/989691b1-d197-3995-a55e-281cda3663ae.json
+/run/saves/New World/advancements/8900053b-f4fc-363a-959f-93166c198461.json
+/run/saves/New World/advancements/19487181-3859-391a-bf75-143cc8396d12.json
+/run/saves/New World/advancements/41196538-4c2b-371d-b141-0e51ad033fac.json
+/run/saves/New World/advancements/50441446-173a-3648-92c5-519e7eb2f5c1.json
+/run/saves/New World/advancements/a50feb77-a933-303f-a181-1dd807c431cd.json
+/run/saves/New World/advancements/a288cb29-a681-33d0-bc05-44996f7b6ce1.json
+/run/saves/New World/advancements/a944d272-b5cd-3b57-b4eb-9b34a77b45aa.json
+/run/saves/New World/advancements/a04881cc-bc13-39a4-a78b-026264bdd98d.json
+/run/saves/New World/advancements/b4e0083c-c857-3e3a-a915-f92e6611bf03.json
+/run/saves/New World/advancements/b5b2ff24-9e23-373f-97d2-19884357bdea.json
+/run/saves/New World/advancements/b89d12f3-1740-34c6-919e-a2949a3e81fe.json
+/run/saves/New World/advancements/b136c8aa-0654-3583-8db1-8749e12181a1.json
+/run/saves/New World/advancements/b6529468-5313-3ea4-bc60-3e6ea6cabccd.json
+/run/saves/New World/advancements/b6738008-cb59-3498-a817-418e36d006f2.json
+/run/saves/New World/advancements/c4f44bdc-3735-3cd8-a9bc-fcc7058fd604.json
+/run/saves/New World/advancements/c89ac188-5207-3ca2-8ef0-ed700f7bdbef.json
+/run/saves/New World/advancements/c98187a9-e17b-3f48-8a33-882e62d18d19.json
+/run/saves/New World/advancements/c645540e-52c6-36d2-bbbe-373fe1591946.json
+/run/saves/New World/advancements/cab6b092-7bf9-3f8d-869f-9bdf8f98866f.json
+/run/saves/New World/advancements/ccf0c278-c21f-3ec3-a87c-05202673a5dd.json
+/run/saves/New World/advancements/d5c2adf2-8956-39ce-835b-416668af8f9e.json
+/run/saves/New World/advancements/d978d670-4b07-3a90-bfb6-b4e7c70fe7fc.json
+/run/saves/New World/advancements/d7375cbd-a871-343c-8b61-9df743b3fcf0.json
+/run/saves/New World/advancements/dbc69dc4-5cc0-3e17-977d-029c3370c88b.json
+/run/saves/New World/advancements/dd88e361-ec01-3b4c-8ad5-1ab6382d04d7.json
+/run/saves/New World/advancements/def15adf-07af-3672-a35b-fe69f139863f.json
+/run/saves/New World/advancements/e5f3c748-0ea0-3a62-b5e9-4fef46853cc3.json
+/run/saves/New World/advancements/e62c1c20-738a-32fb-af6c-c761d0c6e0d6.json
+/run/saves/New World/advancements/e248ad6f-48ae-34b1-a009-03f2794f8f73.json
+/run/saves/New World/advancements/e9573f2b-d40d-3861-93a9-09f57907533d.json
+/run/saves/New World/advancements/e4358028-bc3b-38cc-b645-4d08d3b4f456.json
+/run/saves/New World/advancements/e6106110-0611-3c88-99d4-92770daab422.json
+/run/saves/New World/advancements/efe2ab2d-072a-337a-9d65-10da4f48c969.json
+/run/saves/New World/advancements/f72b2d25-9f45-36b9-af71-ec48f438787b.json
+/run/saves/New World/advancements/fd4dff36-f6aa-35f9-8e99-ec749e44651e.json
+/run/saves/New World/advancements/fe4bc08c-19e6-3b63-ba18-653e7a90e84a.json
+/run/saves/New World/advancements/fe207da4-45aa-3a2a-bf67-72a700290388.json
+/run/saves/New World/cobblemonplayerdata/0b/0b0a3338-3321-32ee-8738-58aa00379d42.json
+/run/saves/New World/cobblemonplayerdata/0c/0c375742-c902-3e90-aa08-6f9c607b7881.json
+/run/saves/New World/cobblemonplayerdata/0d/0dba4657-9c98-3a17-999f-e412cc5ea8b2.json
+/run/saves/New World/cobblemonplayerdata/00/007fdc41-9afa-3dd2-b8c2-6d71f040d4a4.json
+/run/saves/New World/cobblemonplayerdata/1b/1b018a8a-d6f2-3b56-a2b7-8ff489be877f.json
+/run/saves/New World/cobblemonplayerdata/1b/1b5803ef-dab8-3673-85ae-9a9160028e1f.json
+/run/saves/New World/cobblemonplayerdata/1c/1c3a2857-e7ef-32a0-829f-3ff0829e8487.json
+/run/saves/New World/cobblemonplayerdata/1c/1c6ab893-c8be-3ad8-a14c-5cafcb89dfd5.json
+/run/saves/New World/cobblemonplayerdata/1e/1e82d5df-f979-3bfc-ba78-cae265f60e33.json
+/run/saves/New World/cobblemonplayerdata/01/01986ee6-ca3c-3b64-bdcd-02039da5963f.json
+/run/saves/New World/cobblemonplayerdata/2a/2aad58e3-54f7-330f-a72b-452f50ba116d.json
+/run/saves/New World/cobblemonplayerdata/2b/2b32bf3c-80b5-35b3-abab-2d4e53bbbeb0.json
+/run/saves/New World/cobblemonplayerdata/2b/2b83ebdc-0604-37b1-94a0-4298b1021b84.json
+/run/saves/New World/cobblemonplayerdata/2b/2b98548a-5e09-3029-b082-b4c99d31d926.json
+/run/saves/New World/cobblemonplayerdata/3c/3c7cef0c-c4d3-3eb2-a04d-c369cce398ef.json
+/run/saves/New World/cobblemonplayerdata/3e/3e97bd98-3fed-36a5-a2b2-bf93d544eeed.json
+/run/saves/New World/cobblemonplayerdata/4c/4c4af65a-e991-33a8-a762-2d145c215578.json
+/run/saves/New World/cobblemonplayerdata/5a/5a8bc451-c1a7-3b73-97ff-34b045dbb0ff.json
+/run/saves/New World/cobblemonplayerdata/5d/5d4844c1-110f-375f-8c73-6803b7a61e5d.json
+/run/saves/New World/cobblemonplayerdata/5d/5daba5f8-966b-3165-8089-02aaa9b1e740.json
+/run/saves/New World/cobblemonplayerdata/6a/6ab97267-d569-3e8b-a487-d3c860281e7e.json
+/run/saves/New World/cobblemonplayerdata/6b/6b53dfcf-6b4c-38dc-935a-30b749f0d474.json
+/run/saves/New World/cobblemonplayerdata/6f/6f525ab9-4df4-3875-8280-4904a48f9cd7.json
+/run/saves/New World/cobblemonplayerdata/7a/7a3400be-e31a-307d-9fe4-43aac536397b.json
+/run/saves/New World/cobblemonplayerdata/7f/7fc02cf2-da5a-351c-a700-aaa88bd6d88d.json
+/run/saves/New World/cobblemonplayerdata/07/07621e04-f7a0-3030-986e-2083b375ff85.json
+/run/saves/New World/cobblemonplayerdata/8b/8b8434b7-4246-3db8-89e4-a51a52bc8fc9.json
+/run/saves/New World/cobblemonplayerdata/8c/8ce64f24-c135-3001-9ff7-8b03d3719e4f.json
+/run/saves/New World/cobblemonplayerdata/8e/8e20979a-9b41-35b8-8d36-ad77135df934.json
+/run/saves/New World/cobblemonplayerdata/9c/9c66b502-7304-3207-92e6-8d6afcf30d77.json
+/run/saves/New World/cobblemonplayerdata/09/094b1c52-a449-3e9f-896c-59239b943c71.json
+/run/saves/New World/cobblemonplayerdata/11/11e12ca9-fda1-31b6-8f92-6e251e7a18f2.json
+/run/saves/New World/cobblemonplayerdata/12/122d3a74-28b3-3553-91d4-9092b640ce8e.json
+/run/saves/New World/cobblemonplayerdata/17/1714a812-885f-3243-b534-9a660fba6e8b.json
+/run/saves/New World/cobblemonplayerdata/19/197d9491-ff34-3fd1-8394-1aadd56cfa2c.json
+/run/saves/New World/cobblemonplayerdata/19/198eff5d-ccf5-3ba5-aac5-eea0074f959b.json
+/run/saves/New World/cobblemonplayerdata/19/19487181-3859-391a-bf75-143cc8396d12.json
+/run/saves/New World/cobblemonplayerdata/28/28de3746-47a4-326a-afac-3983252542f7.json
+/run/saves/New World/cobblemonplayerdata/29/29aa321a-1ce7-35de-bfab-f37fa4095c7d.json
+/run/saves/New World/cobblemonplayerdata/29/29b47250-4236-34ae-8b46-7341b800b727.json
+/run/saves/New World/cobblemonplayerdata/32/324bf773-41c1-3c88-8191-03f2982049b1.json
+/run/saves/New World/cobblemonplayerdata/35/352a2219-a032-396a-9556-4b75f1d6ec41.json
+/run/saves/New World/cobblemonplayerdata/36/365faa2a-981e-3ca7-bdac-725f58fc8c84.json
+/run/saves/New World/cobblemonplayerdata/39/393f993c-07f1-322f-8af5-e61da4aa15d9.json
+/run/saves/New World/cobblemonplayerdata/41/41196538-4c2b-371d-b141-0e51ad033fac.json
+/run/saves/New World/cobblemonplayerdata/42/42c8facc-cbd2-36d2-8ac3-7dd20c6ce2a1.json
+/run/saves/New World/cobblemonplayerdata/44/44e8d65a-a4b2-3c63-9ef0-950bb5685028.json
+/run/saves/New World/cobblemonplayerdata/45/45c2c1e2-9dd4-3d62-8e53-82e2b4b32b4a.json
+/run/saves/New World/cobblemonplayerdata/47/479b5936-9fd6-3f34-a6bd-40db6d59d9f4.json
+/run/saves/New World/cobblemonplayerdata/48/483a9f6c-d89c-3cd9-9ee4-92f25a76c0c5.json
+/run/saves/New World/cobblemonplayerdata/48/4805b7f8-997e-33ab-826d-ca981b97526b.json
+/run/saves/New World/cobblemonplayerdata/50/50441446-173a-3648-92c5-519e7eb2f5c1.json
+/run/saves/New World/cobblemonplayerdata/55/55199b58-d04f-3d22-9ce2-5472509a024b.json
+/run/saves/New World/cobblemonplayerdata/57/57e72990-8f4d-370a-9882-2dee063faae3.json
+/run/saves/New World/cobblemonplayerdata/57/5763de83-e0ac-32bb-9102-41b754fdcdbe.json
+/run/saves/New World/cobblemonplayerdata/59/598e33a2-e636-3db6-ba2f-6b9836ee1bdd.json
+/run/saves/New World/cobblemonplayerdata/59/596302c2-a8ac-3ac1-b055-653042871aa0.json
+/run/saves/New World/cobblemonplayerdata/60/60d19c6d-8381-348f-9d23-cb28708609fc.json
+/run/saves/New World/cobblemonplayerdata/62/62db38a8-8d21-3d78-b638-e74e59f2520a.json
+/run/saves/New World/cobblemonplayerdata/63/63112fde-b0db-328f-b581-077db247c627.json
+/run/saves/New World/cobblemonplayerdata/64/64b1f788-7df1-3200-9eb6-3f1908ccafaa.json
+/run/saves/New World/cobblemonplayerdata/64/64579c2e-a410-37b0-995d-5aa98a8b0304.json
+/run/saves/New World/cobblemonplayerdata/65/651bbe0e-980e-38d7-8fbb-83ebfec85347.json
+/run/saves/New World/cobblemonplayerdata/66/6634a609-43e8-3247-9054-c77a3a707d73.json
+/run/saves/New World/cobblemonplayerdata/66/66157e7a-53e0-3299-9208-7674efd706f9.json
+/run/saves/New World/cobblemonplayerdata/67/67e801d2-e191-3522-b722-ab00d5bd7360.json
+/run/saves/New World/cobblemonplayerdata/67/671fc71d-f6cb-3d6a-91ee-4151a2cbcf9a.json
+/run/saves/New World/cobblemonplayerdata/76/76e88f6f-84ed-3a54-af33-5eec444b0454.json
+/run/saves/New World/cobblemonplayerdata/79/79f8754e-14dd-38b7-8860-09cab9cfb920.json
+/run/saves/New World/cobblemonplayerdata/79/79588fdd-6216-324d-ac44-68b387fcfb5c.json
+/run/saves/New World/cobblemonplayerdata/79/792573f3-7356-38b9-b291-6ba6c7176e80.json
+/run/saves/New World/cobblemonplayerdata/83/83f835f2-20fa-325d-8039-400fcc96db8c.json
+/run/saves/New World/cobblemonplayerdata/87/87838b30-d4f9-3495-97a3-26161a757982.json
+/run/saves/New World/cobblemonplayerdata/88/8878ef4a-de27-32df-b636-12a0a607ca5d.json
+/run/saves/New World/cobblemonplayerdata/89/8900053b-f4fc-363a-959f-93166c198461.json
+/run/saves/New World/cobblemonplayerdata/90/90ee7131-905c-3e5a-b4c0-60424db8bd36.json
+/run/saves/New World/cobblemonplayerdata/93/93bfa0b6-cc14-3c0c-8efa-0bcc48245274.json
+/run/saves/New World/cobblemonplayerdata/93/9345ca96-31f6-3ef6-a1e6-265e7320184d.json
+/run/saves/New World/cobblemonplayerdata/94/94590a34-bd24-3d07-8605-517566cb65fe.json
+/run/saves/New World/cobblemonplayerdata/94/942531dd-7690-3c0a-ad42-657bb212e7b6.json
+/run/saves/New World/cobblemonplayerdata/96/9662db8b-9062-3256-9f5d-83caa676c3d7.json
+/run/saves/New World/cobblemonplayerdata/98/989691b1-d197-3995-a55e-281cda3663ae.json
+/run/saves/New World/cobblemonplayerdata/a0/a04881cc-bc13-39a4-a78b-026264bdd98d.json
+/run/saves/New World/cobblemonplayerdata/a2/a288cb29-a681-33d0-bc05-44996f7b6ce1.json
+/run/saves/New World/cobblemonplayerdata/a5/a50feb77-a933-303f-a181-1dd807c431cd.json
+/run/saves/New World/cobblemonplayerdata/a9/a944d272-b5cd-3b57-b4eb-9b34a77b45aa.json
+/run/saves/New World/cobblemonplayerdata/b1/b136c8aa-0654-3583-8db1-8749e12181a1.json
+/run/saves/New World/cobblemonplayerdata/b4/b4e0083c-c857-3e3a-a915-f92e6611bf03.json
+/run/saves/New World/cobblemonplayerdata/b5/b5b2ff24-9e23-373f-97d2-19884357bdea.json
+/run/saves/New World/cobblemonplayerdata/b6/b6529468-5313-3ea4-bc60-3e6ea6cabccd.json
+/run/saves/New World/cobblemonplayerdata/b6/b6738008-cb59-3498-a817-418e36d006f2.json
+/run/saves/New World/cobblemonplayerdata/b8/b89d12f3-1740-34c6-919e-a2949a3e81fe.json
+/run/saves/New World/cobblemonplayerdata/c4/c4f44bdc-3735-3cd8-a9bc-fcc7058fd604.json
+/run/saves/New World/cobblemonplayerdata/c6/c645540e-52c6-36d2-bbbe-373fe1591946.json
+/run/saves/New World/cobblemonplayerdata/c8/c89ac188-5207-3ca2-8ef0-ed700f7bdbef.json
+/run/saves/New World/cobblemonplayerdata/c9/c98187a9-e17b-3f48-8a33-882e62d18d19.json
+/run/saves/New World/cobblemonplayerdata/ca/cab6b092-7bf9-3f8d-869f-9bdf8f98866f.json
+/run/saves/New World/cobblemonplayerdata/cc/ccf0c278-c21f-3ec3-a87c-05202673a5dd.json
+/run/saves/New World/cobblemonplayerdata/d5/d5c2adf2-8956-39ce-835b-416668af8f9e.json
+/run/saves/New World/cobblemonplayerdata/d7/d7375cbd-a871-343c-8b61-9df743b3fcf0.json
+/run/saves/New World/cobblemonplayerdata/d9/d978d670-4b07-3a90-bfb6-b4e7c70fe7fc.json
+/run/saves/New World/cobblemonplayerdata/db/dbc69dc4-5cc0-3e17-977d-029c3370c88b.json
+/run/saves/New World/cobblemonplayerdata/dd/dd88e361-ec01-3b4c-8ad5-1ab6382d04d7.json
+/run/saves/New World/cobblemonplayerdata/de/def15adf-07af-3672-a35b-fe69f139863f.json
+/run/saves/New World/cobblemonplayerdata/e2/e248ad6f-48ae-34b1-a009-03f2794f8f73.json
+/run/saves/New World/cobblemonplayerdata/e4/e4358028-bc3b-38cc-b645-4d08d3b4f456.json
+/run/saves/New World/cobblemonplayerdata/e5/e5f3c748-0ea0-3a62-b5e9-4fef46853cc3.json
+/run/saves/New World/cobblemonplayerdata/e6/e62c1c20-738a-32fb-af6c-c761d0c6e0d6.json
+/run/saves/New World/cobblemonplayerdata/e6/e6106110-0611-3c88-99d4-92770daab422.json
+/run/saves/New World/cobblemonplayerdata/e9/e9573f2b-d40d-3861-93a9-09f57907533d.json
+/run/saves/New World/cobblemonplayerdata/ef/efe2ab2d-072a-337a-9d65-10da4f48c969.json
+/run/saves/New World/cobblemonplayerdata/f7/f72b2d25-9f45-36b9-af71-ec48f438787b.json
+/run/saves/New World/cobblemonplayerdata/fd/fd4dff36-f6aa-35f9-8e99-ec749e44651e.json
+/run/saves/New World/cobblemonplayerdata/fe/fe4bc08c-19e6-3b63-ba18-653e7a90e84a.json
+/run/saves/New World/cobblemonplayerdata/fe/fe207da4-45aa-3a2a-bf67-72a700290388.json
+/run/saves/New World/data/raids.dat
+/run/saves/New World/DIM1/data/raids_end.dat
+/run/saves/New World/DIM-1/data/raids.dat
+/run/saves/New World/entities/r.0.0.mca
+/run/saves/New World/entities/r.0.-1.mca
+/run/saves/New World/entities/r.-1.0.mca
+/run/saves/New World/entities/r.-1.-1.mca
+/run/saves/New World/playerdata/0b0a3338-3321-32ee-8738-58aa00379d42.dat
+/run/saves/New World/playerdata/0c375742-c902-3e90-aa08-6f9c607b7881.dat
+/run/saves/New World/playerdata/0dba4657-9c98-3a17-999f-e412cc5ea8b2.dat
+/run/saves/New World/playerdata/0dba4657-9c98-3a17-999f-e412cc5ea8b2.dat_old
+/run/saves/New World/playerdata/1b018a8a-d6f2-3b56-a2b7-8ff489be877f.dat
+/run/saves/New World/playerdata/1b018a8a-d6f2-3b56-a2b7-8ff489be877f.dat_old
+/run/saves/New World/playerdata/1b5803ef-dab8-3673-85ae-9a9160028e1f.dat
+/run/saves/New World/playerdata/1b5803ef-dab8-3673-85ae-9a9160028e1f.dat_old
+/run/saves/New World/playerdata/1c3a2857-e7ef-32a0-829f-3ff0829e8487.dat
+/run/saves/New World/playerdata/1c6ab893-c8be-3ad8-a14c-5cafcb89dfd5.dat
+/run/saves/New World/playerdata/1c6ab893-c8be-3ad8-a14c-5cafcb89dfd5.dat_old
+/run/saves/New World/playerdata/1e82d5df-f979-3bfc-ba78-cae265f60e33.dat
+/run/saves/New World/playerdata/2aad58e3-54f7-330f-a72b-452f50ba116d.dat
+/run/saves/New World/playerdata/2b32bf3c-80b5-35b3-abab-2d4e53bbbeb0.dat
+/run/saves/New World/playerdata/2b32bf3c-80b5-35b3-abab-2d4e53bbbeb0.dat_old
+/run/saves/New World/playerdata/2b83ebdc-0604-37b1-94a0-4298b1021b84.dat
+/run/saves/New World/playerdata/2b83ebdc-0604-37b1-94a0-4298b1021b84.dat_old
+/run/saves/New World/playerdata/2b98548a-5e09-3029-b082-b4c99d31d926.dat
+/run/saves/New World/playerdata/2b98548a-5e09-3029-b082-b4c99d31d926.dat_old
+/run/saves/New World/playerdata/3c7cef0c-c4d3-3eb2-a04d-c369cce398ef.dat
+/run/saves/New World/playerdata/3c7cef0c-c4d3-3eb2-a04d-c369cce398ef.dat_old
+/run/saves/New World/playerdata/3e97bd98-3fed-36a5-a2b2-bf93d544eeed.dat
+/run/saves/New World/playerdata/4c4af65a-e991-33a8-a762-2d145c215578.dat
+/run/saves/New World/playerdata/5a8bc451-c1a7-3b73-97ff-34b045dbb0ff.dat
+/run/saves/New World/playerdata/5a8bc451-c1a7-3b73-97ff-34b045dbb0ff.dat_old
+/run/saves/New World/playerdata/5d4844c1-110f-375f-8c73-6803b7a61e5d.dat
+/run/saves/New World/playerdata/5d4844c1-110f-375f-8c73-6803b7a61e5d.dat_old
+/run/saves/New World/playerdata/5daba5f8-966b-3165-8089-02aaa9b1e740.dat
+/run/saves/New World/playerdata/6ab97267-d569-3e8b-a487-d3c860281e7e.dat
+/run/saves/New World/playerdata/6ab97267-d569-3e8b-a487-d3c860281e7e.dat_old
+/run/saves/New World/playerdata/6b53dfcf-6b4c-38dc-935a-30b749f0d474.dat
+/run/saves/New World/playerdata/6b53dfcf-6b4c-38dc-935a-30b749f0d474.dat_old
+/run/saves/New World/playerdata/6f525ab9-4df4-3875-8280-4904a48f9cd7.dat
+/run/saves/New World/playerdata/7a3400be-e31a-307d-9fe4-43aac536397b.dat
+/run/saves/New World/playerdata/7fc02cf2-da5a-351c-a700-aaa88bd6d88d.dat
+/run/saves/New World/playerdata/7fc02cf2-da5a-351c-a700-aaa88bd6d88d.dat_old
+/run/saves/New World/playerdata/007fdc41-9afa-3dd2-b8c2-6d71f040d4a4.dat
+/run/saves/New World/playerdata/8b8434b7-4246-3db8-89e4-a51a52bc8fc9.dat
+/run/saves/New World/playerdata/8ce64f24-c135-3001-9ff7-8b03d3719e4f.dat
+/run/saves/New World/playerdata/8e20979a-9b41-35b8-8d36-ad77135df934.dat
+/run/saves/New World/playerdata/8e20979a-9b41-35b8-8d36-ad77135df934.dat_old
+/run/saves/New World/playerdata/9c66b502-7304-3207-92e6-8d6afcf30d77.dat
+/run/saves/New World/playerdata/11e12ca9-fda1-31b6-8f92-6e251e7a18f2.dat
+/run/saves/New World/playerdata/11e12ca9-fda1-31b6-8f92-6e251e7a18f2.dat_old
+/run/saves/New World/playerdata/28de3746-47a4-326a-afac-3983252542f7.dat
+/run/saves/New World/playerdata/28de3746-47a4-326a-afac-3983252542f7.dat_old
+/run/saves/New World/playerdata/29aa321a-1ce7-35de-bfab-f37fa4095c7d.dat
+/run/saves/New World/playerdata/29aa321a-1ce7-35de-bfab-f37fa4095c7d.dat_old
+/run/saves/New World/playerdata/29b47250-4236-34ae-8b46-7341b800b727.dat
+/run/saves/New World/playerdata/29b47250-4236-34ae-8b46-7341b800b727.dat_old
+/run/saves/New World/playerdata/42c8facc-cbd2-36d2-8ac3-7dd20c6ce2a1.dat
+/run/saves/New World/playerdata/44e8d65a-a4b2-3c63-9ef0-950bb5685028.dat
+/run/saves/New World/playerdata/45c2c1e2-9dd4-3d62-8e53-82e2b4b32b4a.dat
+/run/saves/New World/playerdata/57e72990-8f4d-370a-9882-2dee063faae3.dat
+/run/saves/New World/playerdata/60d19c6d-8381-348f-9d23-cb28708609fc.dat
+/run/saves/New World/playerdata/60d19c6d-8381-348f-9d23-cb28708609fc.dat_old
+/run/saves/New World/playerdata/62db38a8-8d21-3d78-b638-e74e59f2520a.dat
+/run/saves/New World/playerdata/62db38a8-8d21-3d78-b638-e74e59f2520a.dat_old
+/run/saves/New World/playerdata/64b1f788-7df1-3200-9eb6-3f1908ccafaa.dat
+/run/saves/New World/playerdata/67e801d2-e191-3522-b722-ab00d5bd7360.dat
+/run/saves/New World/playerdata/76e88f6f-84ed-3a54-af33-5eec444b0454.dat
+/run/saves/New World/playerdata/76e88f6f-84ed-3a54-af33-5eec444b0454.dat_old
+/run/saves/New World/playerdata/79f8754e-14dd-38b7-8860-09cab9cfb920.dat
+/run/saves/New World/playerdata/79f8754e-14dd-38b7-8860-09cab9cfb920.dat_old
+/run/saves/New World/playerdata/83f835f2-20fa-325d-8039-400fcc96db8c.dat
+/run/saves/New World/playerdata/90ee7131-905c-3e5a-b4c0-60424db8bd36.dat
+/run/saves/New World/playerdata/93bfa0b6-cc14-3c0c-8efa-0bcc48245274.dat
+/run/saves/New World/playerdata/094b1c52-a449-3e9f-896c-59239b943c71.dat
+/run/saves/New World/playerdata/094b1c52-a449-3e9f-896c-59239b943c71.dat_old
+/run/saves/New World/playerdata/122d3a74-28b3-3553-91d4-9092b640ce8e.dat
+/run/saves/New World/playerdata/197d9491-ff34-3fd1-8394-1aadd56cfa2c.dat
+/run/saves/New World/playerdata/198eff5d-ccf5-3ba5-aac5-eea0074f959b.dat
+/run/saves/New World/playerdata/324bf773-41c1-3c88-8191-03f2982049b1.dat
+/run/saves/New World/playerdata/324bf773-41c1-3c88-8191-03f2982049b1.dat_old
+/run/saves/New World/playerdata/352a2219-a032-396a-9556-4b75f1d6ec41.dat
+/run/saves/New World/playerdata/365faa2a-981e-3ca7-bdac-725f58fc8c84.dat
+/run/saves/New World/playerdata/393f993c-07f1-322f-8af5-e61da4aa15d9.dat
+/run/saves/New World/playerdata/479b5936-9fd6-3f34-a6bd-40db6d59d9f4.dat
+/run/saves/New World/playerdata/483a9f6c-d89c-3cd9-9ee4-92f25a76c0c5.dat
+/run/saves/New World/playerdata/598e33a2-e636-3db6-ba2f-6b9836ee1bdd.dat
+/run/saves/New World/playerdata/598e33a2-e636-3db6-ba2f-6b9836ee1bdd.dat_old
+/run/saves/New World/playerdata/651bbe0e-980e-38d7-8fbb-83ebfec85347.dat
+/run/saves/New World/playerdata/651bbe0e-980e-38d7-8fbb-83ebfec85347.dat_old
+/run/saves/New World/playerdata/671fc71d-f6cb-3d6a-91ee-4151a2cbcf9a.dat
+/run/saves/New World/playerdata/1714a812-885f-3243-b534-9a660fba6e8b.dat
+/run/saves/New World/playerdata/1714a812-885f-3243-b534-9a660fba6e8b.dat_old
+/run/saves/New World/playerdata/01986ee6-ca3c-3b64-bdcd-02039da5963f.dat
+/run/saves/New World/playerdata/4805b7f8-997e-33ab-826d-ca981b97526b.dat
+/run/saves/New World/playerdata/4805b7f8-997e-33ab-826d-ca981b97526b.dat_old
+/run/saves/New World/playerdata/5763de83-e0ac-32bb-9102-41b754fdcdbe.dat
+/run/saves/New World/playerdata/6634a609-43e8-3247-9054-c77a3a707d73.dat
+/run/saves/New World/playerdata/6634a609-43e8-3247-9054-c77a3a707d73.dat_old
+/run/saves/New World/playerdata/07621e04-f7a0-3030-986e-2083b375ff85.dat
+/run/saves/New World/playerdata/8878ef4a-de27-32df-b636-12a0a607ca5d.dat
+/run/saves/New World/playerdata/9345ca96-31f6-3ef6-a1e6-265e7320184d.dat
+/run/saves/New World/playerdata/9345ca96-31f6-3ef6-a1e6-265e7320184d.dat_old
+/run/saves/New World/playerdata/9662db8b-9062-3256-9f5d-83caa676c3d7.dat
+/run/saves/New World/playerdata/55199b58-d04f-3d22-9ce2-5472509a024b.dat
+/run/saves/New World/playerdata/55199b58-d04f-3d22-9ce2-5472509a024b.dat_old
+/run/saves/New World/playerdata/63112fde-b0db-328f-b581-077db247c627.dat
+/run/saves/New World/playerdata/64579c2e-a410-37b0-995d-5aa98a8b0304.dat
+/run/saves/New World/playerdata/66157e7a-53e0-3299-9208-7674efd706f9.dat
+/run/saves/New World/playerdata/66157e7a-53e0-3299-9208-7674efd706f9.dat_old
+/run/saves/New World/playerdata/79588fdd-6216-324d-ac44-68b387fcfb5c.dat
+/run/saves/New World/playerdata/79588fdd-6216-324d-ac44-68b387fcfb5c.dat_old
+/run/saves/New World/playerdata/87838b30-d4f9-3495-97a3-26161a757982.dat
+/run/saves/New World/playerdata/94590a34-bd24-3d07-8605-517566cb65fe.dat
+/run/saves/New World/playerdata/596302c2-a8ac-3ac1-b055-653042871aa0.dat
+/run/saves/New World/playerdata/792573f3-7356-38b9-b291-6ba6c7176e80.dat
+/run/saves/New World/playerdata/942531dd-7690-3c0a-ad42-657bb212e7b6.dat
+/run/saves/New World/playerdata/942531dd-7690-3c0a-ad42-657bb212e7b6.dat_old
+/run/saves/New World/playerdata/989691b1-d197-3995-a55e-281cda3663ae.dat
+/run/saves/New World/playerdata/8900053b-f4fc-363a-959f-93166c198461.dat
+/run/saves/New World/playerdata/19487181-3859-391a-bf75-143cc8396d12.dat
+/run/saves/New World/playerdata/41196538-4c2b-371d-b141-0e51ad033fac.dat
+/run/saves/New World/playerdata/50441446-173a-3648-92c5-519e7eb2f5c1.dat
+/run/saves/New World/playerdata/50441446-173a-3648-92c5-519e7eb2f5c1.dat_old
+/run/saves/New World/playerdata/a50feb77-a933-303f-a181-1dd807c431cd.dat
+/run/saves/New World/playerdata/a288cb29-a681-33d0-bc05-44996f7b6ce1.dat
+/run/saves/New World/playerdata/a944d272-b5cd-3b57-b4eb-9b34a77b45aa.dat
+/run/saves/New World/playerdata/a944d272-b5cd-3b57-b4eb-9b34a77b45aa.dat_old
+/run/saves/New World/playerdata/a04881cc-bc13-39a4-a78b-026264bdd98d.dat
+/run/saves/New World/playerdata/a04881cc-bc13-39a4-a78b-026264bdd98d.dat_old
+/run/saves/New World/playerdata/b4e0083c-c857-3e3a-a915-f92e6611bf03.dat
+/run/saves/New World/playerdata/b5b2ff24-9e23-373f-97d2-19884357bdea.dat
+/run/saves/New World/playerdata/b89d12f3-1740-34c6-919e-a2949a3e81fe.dat
+/run/saves/New World/playerdata/b89d12f3-1740-34c6-919e-a2949a3e81fe.dat_old
+/run/saves/New World/playerdata/b136c8aa-0654-3583-8db1-8749e12181a1.dat
+/run/saves/New World/playerdata/b6529468-5313-3ea4-bc60-3e6ea6cabccd.dat
+/run/saves/New World/playerdata/b6738008-cb59-3498-a817-418e36d006f2.dat
+/run/saves/New World/playerdata/c4f44bdc-3735-3cd8-a9bc-fcc7058fd604.dat
+/run/saves/New World/playerdata/c4f44bdc-3735-3cd8-a9bc-fcc7058fd604.dat_old
+/run/saves/New World/playerdata/c89ac188-5207-3ca2-8ef0-ed700f7bdbef.dat
+/run/saves/New World/playerdata/c89ac188-5207-3ca2-8ef0-ed700f7bdbef.dat_old
+/run/saves/New World/playerdata/c98187a9-e17b-3f48-8a33-882e62d18d19.dat
+/run/saves/New World/playerdata/c98187a9-e17b-3f48-8a33-882e62d18d19.dat_old
+/run/saves/New World/playerdata/c645540e-52c6-36d2-bbbe-373fe1591946.dat
+/run/saves/New World/playerdata/c645540e-52c6-36d2-bbbe-373fe1591946.dat_old
+/run/saves/New World/playerdata/cab6b092-7bf9-3f8d-869f-9bdf8f98866f.dat
+/run/saves/New World/playerdata/ccf0c278-c21f-3ec3-a87c-05202673a5dd.dat
+/run/saves/New World/playerdata/d5c2adf2-8956-39ce-835b-416668af8f9e.dat
+/run/saves/New World/playerdata/d978d670-4b07-3a90-bfb6-b4e7c70fe7fc.dat
+/run/saves/New World/playerdata/d7375cbd-a871-343c-8b61-9df743b3fcf0.dat
+/run/saves/New World/playerdata/d7375cbd-a871-343c-8b61-9df743b3fcf0.dat_old
+/run/saves/New World/playerdata/dbc69dc4-5cc0-3e17-977d-029c3370c88b.dat
+/run/saves/New World/playerdata/dbc69dc4-5cc0-3e17-977d-029c3370c88b.dat_old
+/run/saves/New World/playerdata/dd88e361-ec01-3b4c-8ad5-1ab6382d04d7.dat
+/run/saves/New World/playerdata/def15adf-07af-3672-a35b-fe69f139863f.dat
+/run/saves/New World/playerdata/def15adf-07af-3672-a35b-fe69f139863f.dat_old
+/run/saves/New World/playerdata/e5f3c748-0ea0-3a62-b5e9-4fef46853cc3.dat
+/run/saves/New World/playerdata/e62c1c20-738a-32fb-af6c-c761d0c6e0d6.dat
+/run/saves/New World/playerdata/e248ad6f-48ae-34b1-a009-03f2794f8f73.dat
+/run/saves/New World/playerdata/e248ad6f-48ae-34b1-a009-03f2794f8f73.dat_old
+/run/saves/New World/playerdata/e9573f2b-d40d-3861-93a9-09f57907533d.dat
+/run/saves/New World/playerdata/e4358028-bc3b-38cc-b645-4d08d3b4f456.dat
+/run/saves/New World/playerdata/e6106110-0611-3c88-99d4-92770daab422.dat
+/run/saves/New World/playerdata/efe2ab2d-072a-337a-9d65-10da4f48c969.dat
+/run/saves/New World/playerdata/f72b2d25-9f45-36b9-af71-ec48f438787b.dat
+/run/saves/New World/playerdata/f72b2d25-9f45-36b9-af71-ec48f438787b.dat_old
+/run/saves/New World/playerdata/fd4dff36-f6aa-35f9-8e99-ec749e44651e.dat
+/run/saves/New World/playerdata/fe4bc08c-19e6-3b63-ba18-653e7a90e84a.dat
+/run/saves/New World/playerdata/fe207da4-45aa-3a2a-bf67-72a700290388.dat
+/run/saves/New World/playerdata/fe207da4-45aa-3a2a-bf67-72a700290388.dat_old
+/run/saves/New World/poi/r.0.0.mca
+/run/saves/New World/poi/r.0.-1.mca
+/run/saves/New World/poi/r.-1.0.mca
+/run/saves/New World/poi/r.-1.-1.mca
+/run/saves/New World/region/r.0.0.mca
+/run/saves/New World/region/r.0.-1.mca
+/run/saves/New World/region/r.-1.0.mca
+/run/saves/New World/region/r.-1.-1.mca
+/run/saves/New World/stats/0b0a3338-3321-32ee-8738-58aa00379d42.json
+/run/saves/New World/stats/0c375742-c902-3e90-aa08-6f9c607b7881.json
+/run/saves/New World/stats/0dba4657-9c98-3a17-999f-e412cc5ea8b2.json
+/run/saves/New World/stats/1b018a8a-d6f2-3b56-a2b7-8ff489be877f.json
+/run/saves/New World/stats/1b5803ef-dab8-3673-85ae-9a9160028e1f.json
+/run/saves/New World/stats/1c3a2857-e7ef-32a0-829f-3ff0829e8487.json
+/run/saves/New World/stats/1c6ab893-c8be-3ad8-a14c-5cafcb89dfd5.json
+/run/saves/New World/stats/1e82d5df-f979-3bfc-ba78-cae265f60e33.json
+/run/saves/New World/stats/2aad58e3-54f7-330f-a72b-452f50ba116d.json
+/run/saves/New World/stats/2b32bf3c-80b5-35b3-abab-2d4e53bbbeb0.json
+/run/saves/New World/stats/2b83ebdc-0604-37b1-94a0-4298b1021b84.json
+/run/saves/New World/stats/2b98548a-5e09-3029-b082-b4c99d31d926.json
+/run/saves/New World/stats/3c7cef0c-c4d3-3eb2-a04d-c369cce398ef.json
+/run/saves/New World/stats/3e97bd98-3fed-36a5-a2b2-bf93d544eeed.json
+/run/saves/New World/stats/4c4af65a-e991-33a8-a762-2d145c215578.json
+/run/saves/New World/stats/5a8bc451-c1a7-3b73-97ff-34b045dbb0ff.json
+/run/saves/New World/stats/5d4844c1-110f-375f-8c73-6803b7a61e5d.json
+/run/saves/New World/stats/5daba5f8-966b-3165-8089-02aaa9b1e740.json
+/run/saves/New World/stats/6ab97267-d569-3e8b-a487-d3c860281e7e.json
+/run/saves/New World/stats/6b53dfcf-6b4c-38dc-935a-30b749f0d474.json
+/run/saves/New World/stats/6f525ab9-4df4-3875-8280-4904a48f9cd7.json
+/run/saves/New World/stats/7a3400be-e31a-307d-9fe4-43aac536397b.json
+/run/saves/New World/stats/7fc02cf2-da5a-351c-a700-aaa88bd6d88d.json
+/run/saves/New World/stats/007fdc41-9afa-3dd2-b8c2-6d71f040d4a4.json
+/run/saves/New World/stats/8b8434b7-4246-3db8-89e4-a51a52bc8fc9.json
+/run/saves/New World/stats/8ce64f24-c135-3001-9ff7-8b03d3719e4f.json
+/run/saves/New World/stats/8e20979a-9b41-35b8-8d36-ad77135df934.json
+/run/saves/New World/stats/9c66b502-7304-3207-92e6-8d6afcf30d77.json
+/run/saves/New World/stats/11e12ca9-fda1-31b6-8f92-6e251e7a18f2.json
+/run/saves/New World/stats/28de3746-47a4-326a-afac-3983252542f7.json
+/run/saves/New World/stats/29aa321a-1ce7-35de-bfab-f37fa4095c7d.json
+/run/saves/New World/stats/29b47250-4236-34ae-8b46-7341b800b727.json
+/run/saves/New World/stats/42c8facc-cbd2-36d2-8ac3-7dd20c6ce2a1.json
+/run/saves/New World/stats/44e8d65a-a4b2-3c63-9ef0-950bb5685028.json
+/run/saves/New World/stats/45c2c1e2-9dd4-3d62-8e53-82e2b4b32b4a.json
+/run/saves/New World/stats/57e72990-8f4d-370a-9882-2dee063faae3.json
+/run/saves/New World/stats/60d19c6d-8381-348f-9d23-cb28708609fc.json
+/run/saves/New World/stats/62db38a8-8d21-3d78-b638-e74e59f2520a.json
+/run/saves/New World/stats/64b1f788-7df1-3200-9eb6-3f1908ccafaa.json
+/run/saves/New World/stats/67e801d2-e191-3522-b722-ab00d5bd7360.json
+/run/saves/New World/stats/76e88f6f-84ed-3a54-af33-5eec444b0454.json
+/run/saves/New World/stats/79f8754e-14dd-38b7-8860-09cab9cfb920.json
+/run/saves/New World/stats/83f835f2-20fa-325d-8039-400fcc96db8c.json
+/run/saves/New World/stats/90ee7131-905c-3e5a-b4c0-60424db8bd36.json
+/run/saves/New World/stats/93bfa0b6-cc14-3c0c-8efa-0bcc48245274.json
+/run/saves/New World/stats/094b1c52-a449-3e9f-896c-59239b943c71.json
+/run/saves/New World/stats/122d3a74-28b3-3553-91d4-9092b640ce8e.json
+/run/saves/New World/stats/197d9491-ff34-3fd1-8394-1aadd56cfa2c.json
+/run/saves/New World/stats/198eff5d-ccf5-3ba5-aac5-eea0074f959b.json
+/run/saves/New World/stats/324bf773-41c1-3c88-8191-03f2982049b1.json
+/run/saves/New World/stats/352a2219-a032-396a-9556-4b75f1d6ec41.json
+/run/saves/New World/stats/365faa2a-981e-3ca7-bdac-725f58fc8c84.json
+/run/saves/New World/stats/393f993c-07f1-322f-8af5-e61da4aa15d9.json
+/run/saves/New World/stats/479b5936-9fd6-3f34-a6bd-40db6d59d9f4.json
+/run/saves/New World/stats/483a9f6c-d89c-3cd9-9ee4-92f25a76c0c5.json
+/run/saves/New World/stats/598e33a2-e636-3db6-ba2f-6b9836ee1bdd.json
+/run/saves/New World/stats/651bbe0e-980e-38d7-8fbb-83ebfec85347.json
+/run/saves/New World/stats/671fc71d-f6cb-3d6a-91ee-4151a2cbcf9a.json
+/run/saves/New World/stats/1714a812-885f-3243-b534-9a660fba6e8b.json
+/run/saves/New World/stats/01986ee6-ca3c-3b64-bdcd-02039da5963f.json
+/run/saves/New World/stats/4805b7f8-997e-33ab-826d-ca981b97526b.json
+/run/saves/New World/stats/5763de83-e0ac-32bb-9102-41b754fdcdbe.json
+/run/saves/New World/stats/6634a609-43e8-3247-9054-c77a3a707d73.json
+/run/saves/New World/stats/07621e04-f7a0-3030-986e-2083b375ff85.json
+/run/saves/New World/stats/8878ef4a-de27-32df-b636-12a0a607ca5d.json
+/run/saves/New World/stats/9345ca96-31f6-3ef6-a1e6-265e7320184d.json
+/run/saves/New World/stats/9662db8b-9062-3256-9f5d-83caa676c3d7.json
+/run/saves/New World/stats/55199b58-d04f-3d22-9ce2-5472509a024b.json
+/run/saves/New World/stats/63112fde-b0db-328f-b581-077db247c627.json
+/run/saves/New World/stats/64579c2e-a410-37b0-995d-5aa98a8b0304.json
+/run/saves/New World/stats/66157e7a-53e0-3299-9208-7674efd706f9.json
+/run/saves/New World/stats/79588fdd-6216-324d-ac44-68b387fcfb5c.json
+/run/saves/New World/stats/87838b30-d4f9-3495-97a3-26161a757982.json
+/run/saves/New World/stats/94590a34-bd24-3d07-8605-517566cb65fe.json
+/run/saves/New World/stats/596302c2-a8ac-3ac1-b055-653042871aa0.json
+/run/saves/New World/stats/792573f3-7356-38b9-b291-6ba6c7176e80.json
+/run/saves/New World/stats/942531dd-7690-3c0a-ad42-657bb212e7b6.json
+/run/saves/New World/stats/989691b1-d197-3995-a55e-281cda3663ae.json
+/run/saves/New World/stats/8900053b-f4fc-363a-959f-93166c198461.json
+/run/saves/New World/stats/19487181-3859-391a-bf75-143cc8396d12.json
+/run/saves/New World/stats/41196538-4c2b-371d-b141-0e51ad033fac.json
+/run/saves/New World/stats/50441446-173a-3648-92c5-519e7eb2f5c1.json
+/run/saves/New World/stats/a50feb77-a933-303f-a181-1dd807c431cd.json
+/run/saves/New World/stats/a288cb29-a681-33d0-bc05-44996f7b6ce1.json
+/run/saves/New World/stats/a944d272-b5cd-3b57-b4eb-9b34a77b45aa.json
+/run/saves/New World/stats/a04881cc-bc13-39a4-a78b-026264bdd98d.json
+/run/saves/New World/stats/b4e0083c-c857-3e3a-a915-f92e6611bf03.json
+/run/saves/New World/stats/b5b2ff24-9e23-373f-97d2-19884357bdea.json
+/run/saves/New World/stats/b89d12f3-1740-34c6-919e-a2949a3e81fe.json
+/run/saves/New World/stats/b136c8aa-0654-3583-8db1-8749e12181a1.json
+/run/saves/New World/stats/b6529468-5313-3ea4-bc60-3e6ea6cabccd.json
+/run/saves/New World/stats/b6738008-cb59-3498-a817-418e36d006f2.json
+/run/saves/New World/stats/c4f44bdc-3735-3cd8-a9bc-fcc7058fd604.json
+/run/saves/New World/stats/c89ac188-5207-3ca2-8ef0-ed700f7bdbef.json
+/run/saves/New World/stats/c98187a9-e17b-3f48-8a33-882e62d18d19.json
+/run/saves/New World/stats/c645540e-52c6-36d2-bbbe-373fe1591946.json
+/run/saves/New World/stats/cab6b092-7bf9-3f8d-869f-9bdf8f98866f.json
+/run/saves/New World/stats/ccf0c278-c21f-3ec3-a87c-05202673a5dd.json
+/run/saves/New World/stats/d5c2adf2-8956-39ce-835b-416668af8f9e.json
+/run/saves/New World/stats/d978d670-4b07-3a90-bfb6-b4e7c70fe7fc.json
+/run/saves/New World/stats/d7375cbd-a871-343c-8b61-9df743b3fcf0.json
+/run/saves/New World/stats/dbc69dc4-5cc0-3e17-977d-029c3370c88b.json
+/run/saves/New World/stats/dd88e361-ec01-3b4c-8ad5-1ab6382d04d7.json
+/run/saves/New World/stats/def15adf-07af-3672-a35b-fe69f139863f.json
+/run/saves/New World/stats/e5f3c748-0ea0-3a62-b5e9-4fef46853cc3.json
+/run/saves/New World/stats/e62c1c20-738a-32fb-af6c-c761d0c6e0d6.json
+/run/saves/New World/stats/e248ad6f-48ae-34b1-a009-03f2794f8f73.json
+/run/saves/New World/stats/e9573f2b-d40d-3861-93a9-09f57907533d.json
+/run/saves/New World/stats/e4358028-bc3b-38cc-b645-4d08d3b4f456.json
+/run/saves/New World/stats/e6106110-0611-3c88-99d4-92770daab422.json
+/run/saves/New World/stats/efe2ab2d-072a-337a-9d65-10da4f48c969.json
+/run/saves/New World/stats/f72b2d25-9f45-36b9-af71-ec48f438787b.json
+/run/saves/New World/stats/fd4dff36-f6aa-35f9-8e99-ec749e44651e.json
+/run/saves/New World/stats/fe4bc08c-19e6-3b63-ba18-653e7a90e84a.json
+/run/saves/New World/stats/fe207da4-45aa-3a2a-bf67-72a700290388.json
+/run/saves/New World/icon.png
+/run/saves/New World/level.dat
+/run/saves/New World/level.dat_old
+/run/saves/New World/session.lock
+/run/showdown/config/config-example.js
+/run/showdown/config/custom-formats.js
+/run/showdown/config/custom-formats.js.map
+/run/showdown/config/formats.js
+/run/showdown/config/formats.js.map
+/run/showdown/data/mods/cobblemon/pokedex.js
+/run/showdown/data/mods/cobblemon/pokedex.js.map
+/run/showdown/data/mods/cobblemon/scripts.js
+/run/showdown/data/mods/cobblemon/scripts.js.map
+/run/showdown/data/mods/fullpotential/abilities.js
+/run/showdown/data/mods/fullpotential/abilities.js.map
+/run/showdown/data/mods/fullpotential/scripts.js
+/run/showdown/data/mods/fullpotential/scripts.js.map
+/run/showdown/data/mods/gen1/conditions.js
+/run/showdown/data/mods/gen1/conditions.js.map
+/run/showdown/data/mods/gen1/formats-data.js
+/run/showdown/data/mods/gen1/formats-data.js.map
+/run/showdown/data/mods/gen1/moves.js
+/run/showdown/data/mods/gen1/moves.js.map
+/run/showdown/data/mods/gen1/pokedex.js
+/run/showdown/data/mods/gen1/pokedex.js.map
+/run/showdown/data/mods/gen1/random-data.json
+/run/showdown/data/mods/gen1/random-teams.js
+/run/showdown/data/mods/gen1/random-teams.js.map
+/run/showdown/data/mods/gen1/rulesets.js
+/run/showdown/data/mods/gen1/rulesets.js.map
+/run/showdown/data/mods/gen1/scripts.js
+/run/showdown/data/mods/gen1/scripts.js.map
+/run/showdown/data/mods/gen1/typechart.js
+/run/showdown/data/mods/gen1/typechart.js.map
+/run/showdown/data/mods/gen1jpn/conditions.js
+/run/showdown/data/mods/gen1jpn/conditions.js.map
+/run/showdown/data/mods/gen1jpn/moves.js
+/run/showdown/data/mods/gen1jpn/moves.js.map
+/run/showdown/data/mods/gen1jpn/rulesets.js
+/run/showdown/data/mods/gen1jpn/rulesets.js.map
+/run/showdown/data/mods/gen1jpn/scripts.js
+/run/showdown/data/mods/gen1jpn/scripts.js.map
+/run/showdown/data/mods/gen1stadium/conditions.js
+/run/showdown/data/mods/gen1stadium/conditions.js.map
+/run/showdown/data/mods/gen1stadium/formats-data.js
+/run/showdown/data/mods/gen1stadium/formats-data.js.map
+/run/showdown/data/mods/gen1stadium/moves.js
+/run/showdown/data/mods/gen1stadium/moves.js.map
+/run/showdown/data/mods/gen1stadium/rulesets.js
+/run/showdown/data/mods/gen1stadium/rulesets.js.map
+/run/showdown/data/mods/gen1stadium/scripts.js
+/run/showdown/data/mods/gen1stadium/scripts.js.map
+/run/showdown/data/mods/gen2/conditions.js
+/run/showdown/data/mods/gen2/conditions.js.map
+/run/showdown/data/mods/gen2/formats-data.js
+/run/showdown/data/mods/gen2/formats-data.js.map
+/run/showdown/data/mods/gen2/items.js
+/run/showdown/data/mods/gen2/items.js.map
+/run/showdown/data/mods/gen2/learnsets.js
+/run/showdown/data/mods/gen2/learnsets.js.map
+/run/showdown/data/mods/gen2/moves.js
+/run/showdown/data/mods/gen2/moves.js.map
+/run/showdown/data/mods/gen2/pokedex.js
+/run/showdown/data/mods/gen2/pokedex.js.map
+/run/showdown/data/mods/gen2/random-data.json
+/run/showdown/data/mods/gen2/random-teams.js
+/run/showdown/data/mods/gen2/random-teams.js.map
+/run/showdown/data/mods/gen2/rulesets.js
+/run/showdown/data/mods/gen2/rulesets.js.map
+/run/showdown/data/mods/gen2/scripts.js
+/run/showdown/data/mods/gen2/scripts.js.map
+/run/showdown/data/mods/gen2/typechart.js
+/run/showdown/data/mods/gen2/typechart.js.map
+/run/showdown/data/mods/gen2stadium2/conditions.js
+/run/showdown/data/mods/gen2stadium2/conditions.js.map
+/run/showdown/data/mods/gen2stadium2/items.js
+/run/showdown/data/mods/gen2stadium2/items.js.map
+/run/showdown/data/mods/gen2stadium2/moves.js
+/run/showdown/data/mods/gen2stadium2/moves.js.map
+/run/showdown/data/mods/gen2stadium2/rulesets.js
+/run/showdown/data/mods/gen2stadium2/rulesets.js.map
+/run/showdown/data/mods/gen2stadium2/scripts.js
+/run/showdown/data/mods/gen2stadium2/scripts.js.map
+/run/showdown/data/mods/gen3/abilities.js
+/run/showdown/data/mods/gen3/abilities.js.map
+/run/showdown/data/mods/gen3/conditions.js
+/run/showdown/data/mods/gen3/conditions.js.map
+/run/showdown/data/mods/gen3/formats-data.js
+/run/showdown/data/mods/gen3/formats-data.js.map
+/run/showdown/data/mods/gen3/items.js
+/run/showdown/data/mods/gen3/items.js.map
+/run/showdown/data/mods/gen3/moves.js
+/run/showdown/data/mods/gen3/moves.js.map
+/run/showdown/data/mods/gen3/random-data.json
+/run/showdown/data/mods/gen3/random-teams.js
+/run/showdown/data/mods/gen3/random-teams.js.map
+/run/showdown/data/mods/gen3/rulesets.js
+/run/showdown/data/mods/gen3/rulesets.js.map
+/run/showdown/data/mods/gen3/scripts.js
+/run/showdown/data/mods/gen3/scripts.js.map
+/run/showdown/data/mods/gen4/abilities.js
+/run/showdown/data/mods/gen4/abilities.js.map
+/run/showdown/data/mods/gen4/conditions.js
+/run/showdown/data/mods/gen4/conditions.js.map
+/run/showdown/data/mods/gen4/formats-data.js
+/run/showdown/data/mods/gen4/formats-data.js.map
+/run/showdown/data/mods/gen4/items.js
+/run/showdown/data/mods/gen4/items.js.map
+/run/showdown/data/mods/gen4/moves.js
+/run/showdown/data/mods/gen4/moves.js.map
+/run/showdown/data/mods/gen4/pokedex.js
+/run/showdown/data/mods/gen4/pokedex.js.map
+/run/showdown/data/mods/gen4/random-data.json
+/run/showdown/data/mods/gen4/random-teams.js
+/run/showdown/data/mods/gen4/random-teams.js.map
+/run/showdown/data/mods/gen4/rulesets.js
+/run/showdown/data/mods/gen4/rulesets.js.map
+/run/showdown/data/mods/gen4/scripts.js
+/run/showdown/data/mods/gen4/scripts.js.map
+/run/showdown/data/mods/gen4pt/formats-data.js
+/run/showdown/data/mods/gen4pt/formats-data.js.map
+/run/showdown/data/mods/gen4pt/learnsets.js
+/run/showdown/data/mods/gen4pt/learnsets.js.map
+/run/showdown/data/mods/gen4pt/scripts.js
+/run/showdown/data/mods/gen4pt/scripts.js.map
+/run/showdown/data/mods/gen5/abilities.js
+/run/showdown/data/mods/gen5/abilities.js.map
+/run/showdown/data/mods/gen5/conditions.js
+/run/showdown/data/mods/gen5/conditions.js.map
+/run/showdown/data/mods/gen5/formats-data.js
+/run/showdown/data/mods/gen5/formats-data.js.map
+/run/showdown/data/mods/gen5/items.js
+/run/showdown/data/mods/gen5/items.js.map
+/run/showdown/data/mods/gen5/moves.js
+/run/showdown/data/mods/gen5/moves.js.map
+/run/showdown/data/mods/gen5/pokedex.js
+/run/showdown/data/mods/gen5/pokedex.js.map
+/run/showdown/data/mods/gen5/random-data.json
+/run/showdown/data/mods/gen5/random-teams.js
+/run/showdown/data/mods/gen5/random-teams.js.map
+/run/showdown/data/mods/gen5/rulesets.js
+/run/showdown/data/mods/gen5/rulesets.js.map
+/run/showdown/data/mods/gen5/scripts.js
+/run/showdown/data/mods/gen5/scripts.js.map
+/run/showdown/data/mods/gen5/typechart.js
+/run/showdown/data/mods/gen5/typechart.js.map
+/run/showdown/data/mods/gen5bw1/formats-data.js
+/run/showdown/data/mods/gen5bw1/formats-data.js.map
+/run/showdown/data/mods/gen5bw1/items.js
+/run/showdown/data/mods/gen5bw1/items.js.map
+/run/showdown/data/mods/gen5bw1/learnsets.js
+/run/showdown/data/mods/gen5bw1/learnsets.js.map
+/run/showdown/data/mods/gen5bw1/pokedex.js
+/run/showdown/data/mods/gen5bw1/pokedex.js.map
+/run/showdown/data/mods/gen5bw1/scripts.js
+/run/showdown/data/mods/gen5bw1/scripts.js.map
+/run/showdown/data/mods/gen6/abilities.js
+/run/showdown/data/mods/gen6/abilities.js.map
+/run/showdown/data/mods/gen6/conditions.js
+/run/showdown/data/mods/gen6/conditions.js.map
+/run/showdown/data/mods/gen6/factory-sets.json
+/run/showdown/data/mods/gen6/formats-data.js
+/run/showdown/data/mods/gen6/formats-data.js.map
+/run/showdown/data/mods/gen6/items.js
+/run/showdown/data/mods/gen6/items.js.map
+/run/showdown/data/mods/gen6/learnsets.js
+/run/showdown/data/mods/gen6/learnsets.js.map
+/run/showdown/data/mods/gen6/moves.js
+/run/showdown/data/mods/gen6/moves.js.map
+/run/showdown/data/mods/gen6/pokedex.js
+/run/showdown/data/mods/gen6/pokedex.js.map
+/run/showdown/data/mods/gen6/random-data.json
+/run/showdown/data/mods/gen6/random-teams.js
+/run/showdown/data/mods/gen6/random-teams.js.map
+/run/showdown/data/mods/gen6/scripts.js
+/run/showdown/data/mods/gen6/scripts.js.map
+/run/showdown/data/mods/gen6/typechart.js
+/run/showdown/data/mods/gen6/typechart.js.map
+/run/showdown/data/mods/gen6xy/formats-data.js
+/run/showdown/data/mods/gen6xy/formats-data.js.map
+/run/showdown/data/mods/gen6xy/items.js
+/run/showdown/data/mods/gen6xy/items.js.map
+/run/showdown/data/mods/gen6xy/learnsets.js
+/run/showdown/data/mods/gen6xy/learnsets.js.map
+/run/showdown/data/mods/gen6xy/moves.js
+/run/showdown/data/mods/gen6xy/moves.js.map
+/run/showdown/data/mods/gen6xy/pokedex.js
+/run/showdown/data/mods/gen6xy/pokedex.js.map
+/run/showdown/data/mods/gen6xy/scripts.js
+/run/showdown/data/mods/gen6xy/scripts.js.map
+/run/showdown/data/mods/gen7/abilities.js
+/run/showdown/data/mods/gen7/abilities.js.map
+/run/showdown/data/mods/gen7/bss-factory-sets.json
+/run/showdown/data/mods/gen7/factory-sets.json
+/run/showdown/data/mods/gen7/formats-data.js
+/run/showdown/data/mods/gen7/formats-data.js.map
+/run/showdown/data/mods/gen7/items.js
+/run/showdown/data/mods/gen7/items.js.map
+/run/showdown/data/mods/gen7/moves.js
+/run/showdown/data/mods/gen7/moves.js.map
+/run/showdown/data/mods/gen7/pokedex.js
+/run/showdown/data/mods/gen7/pokedex.js.map
+/run/showdown/data/mods/gen7/random-data.json
+/run/showdown/data/mods/gen7/random-teams.js
+/run/showdown/data/mods/gen7/random-teams.js.map
+/run/showdown/data/mods/gen7/rulesets.js
+/run/showdown/data/mods/gen7/rulesets.js.map
+/run/showdown/data/mods/gen7/scripts.js
+/run/showdown/data/mods/gen7/scripts.js.map
+/run/showdown/data/mods/gen7letsgo/formats-data.js
+/run/showdown/data/mods/gen7letsgo/formats-data.js.map
+/run/showdown/data/mods/gen7letsgo/learnsets.js
+/run/showdown/data/mods/gen7letsgo/learnsets.js.map
+/run/showdown/data/mods/gen7letsgo/moves.js
+/run/showdown/data/mods/gen7letsgo/moves.js.map
+/run/showdown/data/mods/gen7letsgo/pokedex.js
+/run/showdown/data/mods/gen7letsgo/pokedex.js.map
+/run/showdown/data/mods/gen7letsgo/random-data.json
+/run/showdown/data/mods/gen7letsgo/random-teams.js
+/run/showdown/data/mods/gen7letsgo/random-teams.js.map
+/run/showdown/data/mods/gen7letsgo/scripts.js
+/run/showdown/data/mods/gen7letsgo/scripts.js.map
+/run/showdown/data/mods/gen7sm/formats-data.js
+/run/showdown/data/mods/gen7sm/formats-data.js.map
+/run/showdown/data/mods/gen7sm/items.js
+/run/showdown/data/mods/gen7sm/items.js.map
+/run/showdown/data/mods/gen7sm/learnsets.js
+/run/showdown/data/mods/gen7sm/learnsets.js.map
+/run/showdown/data/mods/gen7sm/moves.js
+/run/showdown/data/mods/gen7sm/moves.js.map
+/run/showdown/data/mods/gen7sm/pokedex.js
+/run/showdown/data/mods/gen7sm/pokedex.js.map
+/run/showdown/data/mods/gen7sm/scripts.js
+/run/showdown/data/mods/gen7sm/scripts.js.map
+/run/showdown/data/mods/gen8/abilities.js
+/run/showdown/data/mods/gen8/abilities.js.map
+/run/showdown/data/mods/gen8/bss-factory-sets.json
+/run/showdown/data/mods/gen8/cap-1v1-sets.json
+/run/showdown/data/mods/gen8/factory-sets.json
+/run/showdown/data/mods/gen8/formats-data.js
+/run/showdown/data/mods/gen8/formats-data.js.map
+/run/showdown/data/mods/gen8/items.js
+/run/showdown/data/mods/gen8/items.js.map
+/run/showdown/data/mods/gen8/learnsets.js
+/run/showdown/data/mods/gen8/learnsets.js.map
+/run/showdown/data/mods/gen8/moves.js
+/run/showdown/data/mods/gen8/moves.js.map
+/run/showdown/data/mods/gen8/pokedex.js
+/run/showdown/data/mods/gen8/pokedex.js.map
+/run/showdown/data/mods/gen8/random-data.json
+/run/showdown/data/mods/gen8/random-teams.js
+/run/showdown/data/mods/gen8/random-teams.js.map
+/run/showdown/data/mods/gen8/rulesets.js
+/run/showdown/data/mods/gen8/rulesets.js.map
+/run/showdown/data/mods/gen8/scripts.js
+/run/showdown/data/mods/gen8/scripts.js.map
+/run/showdown/data/mods/gen8bdsp/abilities.js
+/run/showdown/data/mods/gen8bdsp/abilities.js.map
+/run/showdown/data/mods/gen8bdsp/formats-data.js
+/run/showdown/data/mods/gen8bdsp/formats-data.js.map
+/run/showdown/data/mods/gen8bdsp/items.js
+/run/showdown/data/mods/gen8bdsp/items.js.map
+/run/showdown/data/mods/gen8bdsp/learnsets.js
+/run/showdown/data/mods/gen8bdsp/learnsets.js.map
+/run/showdown/data/mods/gen8bdsp/moves.js
+/run/showdown/data/mods/gen8bdsp/moves.js.map
+/run/showdown/data/mods/gen8bdsp/pokedex.js
+/run/showdown/data/mods/gen8bdsp/pokedex.js.map
+/run/showdown/data/mods/gen8bdsp/random-data.json
+/run/showdown/data/mods/gen8bdsp/random-teams.js
+/run/showdown/data/mods/gen8bdsp/random-teams.js.map
+/run/showdown/data/mods/gen8bdsp/rulesets.js
+/run/showdown/data/mods/gen8bdsp/rulesets.js.map
+/run/showdown/data/mods/gen8bdsp/scripts.js
+/run/showdown/data/mods/gen8bdsp/scripts.js.map
+/run/showdown/data/mods/gen8dlc1/abilities.js
+/run/showdown/data/mods/gen8dlc1/abilities.js.map
+/run/showdown/data/mods/gen8dlc1/formats-data.js
+/run/showdown/data/mods/gen8dlc1/formats-data.js.map
+/run/showdown/data/mods/gen8dlc1/items.js
+/run/showdown/data/mods/gen8dlc1/items.js.map
+/run/showdown/data/mods/gen8dlc1/learnsets.js
+/run/showdown/data/mods/gen8dlc1/learnsets.js.map
+/run/showdown/data/mods/gen8dlc1/moves.js
+/run/showdown/data/mods/gen8dlc1/moves.js.map
+/run/showdown/data/mods/gen8dlc1/pokedex.js
+/run/showdown/data/mods/gen8dlc1/pokedex.js.map
+/run/showdown/data/mods/gen8dlc1/rulesets.js
+/run/showdown/data/mods/gen8dlc1/rulesets.js.map
+/run/showdown/data/mods/gen8dlc1/scripts.js
+/run/showdown/data/mods/gen8dlc1/scripts.js.map
+/run/showdown/data/mods/gen8joltemons/abilities.js
+/run/showdown/data/mods/gen8joltemons/abilities.js.map
+/run/showdown/data/mods/gen8joltemons/conditions.js
+/run/showdown/data/mods/gen8joltemons/conditions.js.map
+/run/showdown/data/mods/gen8joltemons/formats-data.js
+/run/showdown/data/mods/gen8joltemons/formats-data.js.map
+/run/showdown/data/mods/gen8joltemons/items.js
+/run/showdown/data/mods/gen8joltemons/items.js.map
+/run/showdown/data/mods/gen8joltemons/learnsets.js
+/run/showdown/data/mods/gen8joltemons/learnsets.js.map
+/run/showdown/data/mods/gen8joltemons/moves.js
+/run/showdown/data/mods/gen8joltemons/moves.js.map
+/run/showdown/data/mods/gen8joltemons/pokedex.js
+/run/showdown/data/mods/gen8joltemons/pokedex.js.map
+/run/showdown/data/mods/gen8joltemons/random-data.json
+/run/showdown/data/mods/gen8joltemons/random-teams.js
+/run/showdown/data/mods/gen8joltemons/random-teams.js.map
+/run/showdown/data/mods/gen8joltemons/rulesets.js
+/run/showdown/data/mods/gen8joltemons/rulesets.js.map
+/run/showdown/data/mods/gen8joltemons/scripts.js
+/run/showdown/data/mods/gen8joltemons/scripts.js.map
+/run/showdown/data/mods/gen8linked/conditions.js
+/run/showdown/data/mods/gen8linked/conditions.js.map
+/run/showdown/data/mods/gen8linked/items.js
+/run/showdown/data/mods/gen8linked/items.js.map
+/run/showdown/data/mods/gen8linked/moves.js
+/run/showdown/data/mods/gen8linked/moves.js.map
+/run/showdown/data/mods/gen8linked/scripts.js
+/run/showdown/data/mods/gen8linked/scripts.js.map
+/run/showdown/data/mods/gennext/abilities.js
+/run/showdown/data/mods/gennext/abilities.js.map
+/run/showdown/data/mods/gennext/conditions.js
+/run/showdown/data/mods/gennext/conditions.js.map
+/run/showdown/data/mods/gennext/formats-data.js
+/run/showdown/data/mods/gennext/formats-data.js.map
+/run/showdown/data/mods/gennext/items.js
+/run/showdown/data/mods/gennext/items.js.map
+/run/showdown/data/mods/gennext/moves.js
+/run/showdown/data/mods/gennext/moves.js.map
+/run/showdown/data/mods/gennext/pokedex.js
+/run/showdown/data/mods/gennext/pokedex.js.map
+/run/showdown/data/mods/gennext/scripts.js
+/run/showdown/data/mods/gennext/scripts.js.map
+/run/showdown/data/mods/mixandmega/items.js
+/run/showdown/data/mods/mixandmega/items.js.map
+/run/showdown/data/mods/mixandmega/scripts.js
+/run/showdown/data/mods/mixandmega/scripts.js.map
+/run/showdown/data/mods/partnersincrime/abilities.js
+/run/showdown/data/mods/partnersincrime/abilities.js.map
+/run/showdown/data/mods/partnersincrime/items.js
+/run/showdown/data/mods/partnersincrime/items.js.map
+/run/showdown/data/mods/partnersincrime/moves.js
+/run/showdown/data/mods/partnersincrime/moves.js.map
+/run/showdown/data/mods/partnersincrime/scripts.js
+/run/showdown/data/mods/partnersincrime/scripts.js.map
+/run/showdown/data/mods/pokebilities/abilities.js
+/run/showdown/data/mods/pokebilities/abilities.js.map
+/run/showdown/data/mods/pokebilities/moves.js
+/run/showdown/data/mods/pokebilities/moves.js.map
+/run/showdown/data/mods/pokebilities/scripts.js
+/run/showdown/data/mods/pokebilities/scripts.js.map
+/run/showdown/data/mods/potd/random-teams.js
+/run/showdown/data/mods/potd/random-teams.js.map
+/run/showdown/data/mods/sharedpower/abilities.js
+/run/showdown/data/mods/sharedpower/abilities.js.map
+/run/showdown/data/mods/sharedpower/moves.js
+/run/showdown/data/mods/sharedpower/moves.js.map
+/run/showdown/data/mods/sharedpower/random-teams.js
+/run/showdown/data/mods/sharedpower/random-teams.js.map
+/run/showdown/data/mods/sharedpower/scripts.js
+/run/showdown/data/mods/sharedpower/scripts.js.map
+/run/showdown/data/mods/ssb/abilities.js
+/run/showdown/data/mods/ssb/abilities.js.map
+/run/showdown/data/mods/ssb/conditions.js
+/run/showdown/data/mods/ssb/conditions.js.map
+/run/showdown/data/mods/ssb/items.js
+/run/showdown/data/mods/ssb/items.js.map
+/run/showdown/data/mods/ssb/moves.js
+/run/showdown/data/mods/ssb/moves.js.map
+/run/showdown/data/mods/ssb/pokedex.js
+/run/showdown/data/mods/ssb/pokedex.js.map
+/run/showdown/data/mods/ssb/random-teams.js
+/run/showdown/data/mods/ssb/random-teams.js.map
+/run/showdown/data/mods/ssb/scripts.js
+/run/showdown/data/mods/ssb/scripts.js.map
+/run/showdown/data/mods/thecardgame/abilities.js
+/run/showdown/data/mods/thecardgame/abilities.js.map
+/run/showdown/data/mods/thecardgame/conditions.js
+/run/showdown/data/mods/thecardgame/conditions.js.map
+/run/showdown/data/mods/thecardgame/items.js
+/run/showdown/data/mods/thecardgame/items.js.map
+/run/showdown/data/mods/thecardgame/moves.js
+/run/showdown/data/mods/thecardgame/moves.js.map
+/run/showdown/data/mods/thecardgame/scripts.js
+/run/showdown/data/mods/thecardgame/scripts.js.map
+/run/showdown/data/mods/thecardgame/typechart.js
+/run/showdown/data/mods/thecardgame/typechart.js.map
+/run/showdown/data/mods/trademarked/scripts.js
+/run/showdown/data/mods/trademarked/scripts.js.map
+/run/showdown/data/text/abilities.js
+/run/showdown/data/text/abilities.js.map
+/run/showdown/data/text/default.js
+/run/showdown/data/text/default.js.map
+/run/showdown/data/text/items.js
+/run/showdown/data/text/items.js.map
+/run/showdown/data/text/moves.js
+/run/showdown/data/text/moves.js.map
+/run/showdown/data/text/pokedex.js
+/run/showdown/data/text/pokedex.js.map
+/run/showdown/data/abilities.js
+/run/showdown/data/abilities.js.map
+/run/showdown/data/aliases.js
+/run/showdown/data/aliases.js.map
+/run/showdown/data/cg-team-data.js
+/run/showdown/data/cg-team-data.js.map
+/run/showdown/data/cg-teams.js
+/run/showdown/data/cg-teams.js.map
+/run/showdown/data/conditions.js
+/run/showdown/data/conditions.js.map
+/run/showdown/data/formats-data.js
+/run/showdown/data/formats-data.js.map
+/run/showdown/data/items.js
+/run/showdown/data/items.js.map
+/run/showdown/data/learnsets.js
+/run/showdown/data/learnsets.js.map
+/run/showdown/data/moves.js
+/run/showdown/data/moves.js.map
+/run/showdown/data/natures.js
+/run/showdown/data/natures.js.map
+/run/showdown/data/pokedex.js
+/run/showdown/data/pokedex.js.map
+/run/showdown/data/random-sets.json
+/run/showdown/data/random-teams.js
+/run/showdown/data/random-teams.js.map
+/run/showdown/data/rulesets.js
+/run/showdown/data/rulesets.js.map
+/run/showdown/data/scripts.js
+/run/showdown/data/scripts.js.map
+/run/showdown/data/tags.js
+/run/showdown/data/tags.js.map
+/run/showdown/data/typechart.js
+/run/showdown/data/typechart.js.map
+/run/showdown/lib/crashlogger.js
+/run/showdown/lib/crashlogger.js.map
+/run/showdown/lib/dashycode.js
+/run/showdown/lib/dashycode.js.map
+/run/showdown/lib/fs.js
+/run/showdown/lib/fs.js.map
+/run/showdown/lib/index.js
+/run/showdown/lib/index.js.map
+/run/showdown/lib/net.js
+/run/showdown/lib/net.js.map
+/run/showdown/lib/postgres.js
+/run/showdown/lib/postgres.js.map
+/run/showdown/lib/process-manager.js
+/run/showdown/lib/process-manager.js.map
+/run/showdown/lib/repl.js
+/run/showdown/lib/repl.js.map
+/run/showdown/lib/sql.js
+/run/showdown/lib/sql.js.map
+/run/showdown/lib/streams.js
+/run/showdown/lib/streams.js.map
+/run/showdown/lib/utils.js
+/run/showdown/lib/utils.js.map
+/run/showdown/server/artemis/index.js
+/run/showdown/server/artemis/index.js.map
+/run/showdown/server/artemis/local.js
+/run/showdown/server/artemis/local.js.map
+/run/showdown/server/artemis/remote.js
+/run/showdown/server/artemis/remote.js.map
+/run/showdown/server/chat-commands/admin.js
+/run/showdown/server/chat-commands/admin.js.map
+/run/showdown/server/chat-commands/avatars.js
+/run/showdown/server/chat-commands/avatars.js.map
+/run/showdown/server/chat-commands/core.js
+/run/showdown/server/chat-commands/core.js.map
+/run/showdown/server/chat-commands/info.js
+/run/showdown/server/chat-commands/info.js.map
+/run/showdown/server/chat-commands/moderation.js
+/run/showdown/server/chat-commands/moderation.js.map
+/run/showdown/server/chat-commands/room-settings.js
+/run/showdown/server/chat-commands/room-settings.js.map
+/run/showdown/server/chat-plugins/randombattles/index.js
+/run/showdown/server/chat-plugins/randombattles/index.js.map
+/run/showdown/server/chat-plugins/randombattles/winrates.js
+/run/showdown/server/chat-plugins/randombattles/winrates.js.map
+/run/showdown/server/chat-plugins/trivia/database.js
+/run/showdown/server/chat-plugins/trivia/database.js.map
+/run/showdown/server/chat-plugins/trivia/transactions.js
+/run/showdown/server/chat-plugins/trivia/transactions.js.map
+/run/showdown/server/chat-plugins/trivia/trivia.js
+/run/showdown/server/chat-plugins/trivia/trivia.js.map
+/run/showdown/server/chat-plugins/abuse-monitor.js
+/run/showdown/server/chat-plugins/abuse-monitor.js.map
+/run/showdown/server/chat-plugins/announcements.js
+/run/showdown/server/chat-plugins/announcements.js.map
+/run/showdown/server/chat-plugins/battlesearch.js
+/run/showdown/server/chat-plugins/battlesearch.js.map
+/run/showdown/server/chat-plugins/blackjack.js
+/run/showdown/server/chat-plugins/blackjack.js.map
+/run/showdown/server/chat-plugins/calculator.js
+/run/showdown/server/chat-plugins/calculator.js.map
+/run/showdown/server/chat-plugins/cg-teams-leveling.js
+/run/showdown/server/chat-plugins/cg-teams-leveling.js.map
+/run/showdown/server/chat-plugins/chat-monitor.js
+/run/showdown/server/chat-plugins/chat-monitor.js.map
+/run/showdown/server/chat-plugins/chatlog.js
+/run/showdown/server/chat-plugins/chatlog.js.map
+/run/showdown/server/chat-plugins/daily-spotlight.js
+/run/showdown/server/chat-plugins/daily-spotlight.js.map
+/run/showdown/server/chat-plugins/datasearch.js
+/run/showdown/server/chat-plugins/datasearch.js.map
+/run/showdown/server/chat-plugins/friends.js
+/run/showdown/server/chat-plugins/friends.js.map
+/run/showdown/server/chat-plugins/github.js
+/run/showdown/server/chat-plugins/github.js.map
+/run/showdown/server/chat-plugins/hangman.js
+/run/showdown/server/chat-plugins/hangman.js.map
+/run/showdown/server/chat-plugins/helptickets.js
+/run/showdown/server/chat-plugins/helptickets.js.map
+/run/showdown/server/chat-plugins/helptickets-auto.js
+/run/showdown/server/chat-plugins/helptickets-auto.js.map
+/run/showdown/server/chat-plugins/hosts.js
+/run/showdown/server/chat-plugins/hosts.js.map
+/run/showdown/server/chat-plugins/jeopardy.js
+/run/showdown/server/chat-plugins/jeopardy.js.map
+/run/showdown/server/chat-plugins/lottery.js
+/run/showdown/server/chat-plugins/lottery.js.map
+/run/showdown/server/chat-plugins/mafia.js
+/run/showdown/server/chat-plugins/mafia.js.map
+/run/showdown/server/chat-plugins/modlog-viewer.js
+/run/showdown/server/chat-plugins/modlog-viewer.js.map
+/run/showdown/server/chat-plugins/othermetas.js
+/run/showdown/server/chat-plugins/othermetas.js.map
+/run/showdown/server/chat-plugins/poll.js
+/run/showdown/server/chat-plugins/poll.js.map
+/run/showdown/server/chat-plugins/quotes.js
+/run/showdown/server/chat-plugins/quotes.js.map
+/run/showdown/server/chat-plugins/repeats.js
+/run/showdown/server/chat-plugins/repeats.js.map
+/run/showdown/server/chat-plugins/responder.js
+/run/showdown/server/chat-plugins/responder.js.map
+/run/showdown/server/chat-plugins/rock-paper-scissors.js
+/run/showdown/server/chat-plugins/rock-paper-scissors.js.map
+/run/showdown/server/chat-plugins/room-events.js
+/run/showdown/server/chat-plugins/room-events.js.map
+/run/showdown/server/chat-plugins/room-faqs.js
+/run/showdown/server/chat-plugins/room-faqs.js.map
+/run/showdown/server/chat-plugins/sample-teams.js
+/run/showdown/server/chat-plugins/sample-teams.js.map
+/run/showdown/server/chat-plugins/scavenger-games.js
+/run/showdown/server/chat-plugins/scavenger-games.js.map
+/run/showdown/server/chat-plugins/scavengers.js
+/run/showdown/server/chat-plugins/scavengers.js.map
+/run/showdown/server/chat-plugins/smogtours.js
+/run/showdown/server/chat-plugins/smogtours.js.map
+/run/showdown/server/chat-plugins/suspect-tests.js
+/run/showdown/server/chat-plugins/suspect-tests.js.map
+/run/showdown/server/chat-plugins/tcgtabletop.js
+/run/showdown/server/chat-plugins/tcgtabletop.js.map
+/run/showdown/server/chat-plugins/the-studio.js
+/run/showdown/server/chat-plugins/the-studio.js.map
+/run/showdown/server/chat-plugins/thecafe.js
+/run/showdown/server/chat-plugins/thecafe.js.map
+/run/showdown/server/chat-plugins/thing-of-the-day.js
+/run/showdown/server/chat-plugins/thing-of-the-day.js.map
+/run/showdown/server/chat-plugins/uno.js
+/run/showdown/server/chat-plugins/uno.js.map
+/run/showdown/server/chat-plugins/username-prefixes.js
+/run/showdown/server/chat-plugins/username-prefixes.js.map
+/run/showdown/server/chat-plugins/usersearch.js
+/run/showdown/server/chat-plugins/usersearch.js.map
+/run/showdown/server/chat-plugins/wifi.js
+/run/showdown/server/chat-plugins/wifi.js.map
+/run/showdown/server/chat-plugins/youtube.js
+/run/showdown/server/chat-plugins/youtube.js.map
+/run/showdown/server/modlog/index.js
+/run/showdown/server/modlog/index.js.map
+/run/showdown/server/modlog/transactions.js
+/run/showdown/server/modlog/transactions.js.map
+/run/showdown/server/tournaments/generator-elimination.js
+/run/showdown/server/tournaments/generator-elimination.js.map
+/run/showdown/server/tournaments/generator-round-robin.js
+/run/showdown/server/tournaments/generator-round-robin.js.map
+/run/showdown/server/tournaments/index.js
+/run/showdown/server/tournaments/index.js.map
+/run/showdown/server/chat.js
+/run/showdown/server/chat.js.map
+/run/showdown/server/chat-formatter.js
+/run/showdown/server/chat-formatter.js.map
+/run/showdown/server/chat-jsx.js
+/run/showdown/server/chat-jsx.js.map
+/run/showdown/server/config-loader.js
+/run/showdown/server/config-loader.js.map
+/run/showdown/server/friends.js
+/run/showdown/server/friends.js.map
+/run/showdown/server/index.js
+/run/showdown/server/index.js.map
+/run/showdown/server/ip-tools.js
+/run/showdown/server/ip-tools.js.map
+/run/showdown/server/ladders.js
+/run/showdown/server/ladders.js.map
+/run/showdown/server/ladders-challenges.js
+/run/showdown/server/ladders-challenges.js.map
+/run/showdown/server/ladders-local.js
+/run/showdown/server/ladders-local.js.map
+/run/showdown/server/ladders-remote.js
+/run/showdown/server/ladders-remote.js.map
+/run/showdown/server/loginserver.js
+/run/showdown/server/loginserver.js.map
+/run/showdown/server/monitor.js
+/run/showdown/server/monitor.js.map
+/run/showdown/server/punishments.js
+/run/showdown/server/punishments.js.map
+/run/showdown/server/room-battle.js
+/run/showdown/server/room-battle.js.map
+/run/showdown/server/room-game.js
+/run/showdown/server/room-game.js.map
+/run/showdown/server/room-minor-activity.js
+/run/showdown/server/room-minor-activity.js.map
+/run/showdown/server/roomlogs.js
+/run/showdown/server/roomlogs.js.map
+/run/showdown/server/rooms.js
+/run/showdown/server/rooms.js.map
+/run/showdown/server/sockets.js
+/run/showdown/server/sockets.js.map
+/run/showdown/server/team-validator-async.js
+/run/showdown/server/team-validator-async.js.map
+/run/showdown/server/user-groups.js
+/run/showdown/server/user-groups.js.map
+/run/showdown/server/users.js
+/run/showdown/server/users.js.map
+/run/showdown/server/verifier.js
+/run/showdown/server/verifier.js.map
+/run/showdown/sim/examples/battle-stream-example.js
+/run/showdown/sim/examples/battle-stream-example.js.map
+/run/showdown/sim/tools/exhaustive-runner.js
+/run/showdown/sim/tools/exhaustive-runner.js.map
+/run/showdown/sim/tools/multi-random-runner.js
+/run/showdown/sim/tools/multi-random-runner.js.map
+/run/showdown/sim/tools/random-player-ai.js
+/run/showdown/sim/tools/random-player-ai.js.map
+/run/showdown/sim/tools/runner.js
+/run/showdown/sim/tools/runner.js.map
+/run/showdown/sim/battle.js
+/run/showdown/sim/battle.js.map
+/run/showdown/sim/battle-actions.js
+/run/showdown/sim/battle-actions.js.map
+/run/showdown/sim/battle-queue.js
+/run/showdown/sim/battle-queue.js.map
+/run/showdown/sim/battle-stream.js
+/run/showdown/sim/battle-stream.js.map
+/run/showdown/sim/cobbled-debug-client.js
+/run/showdown/sim/cobbled-debug-client.js.map
+/run/showdown/sim/cobbled-debug-server.js
+/run/showdown/sim/cobbled-debug-server.js.map
+/run/showdown/sim/cobblemon-cache.js
+/run/showdown/sim/cobblemon-cache.js.map
+/run/showdown/sim/dex.js
+/run/showdown/sim/dex.js.map
+/run/showdown/sim/dex-abilities.js
+/run/showdown/sim/dex-abilities.js.map
+/run/showdown/sim/dex-conditions.js
+/run/showdown/sim/dex-conditions.js.map
+/run/showdown/sim/dex-data.js
+/run/showdown/sim/dex-data.js.map
+/run/showdown/sim/dex-formats.js
+/run/showdown/sim/dex-formats.js.map
+/run/showdown/sim/dex-items.js
+/run/showdown/sim/dex-items.js.map
+/run/showdown/sim/dex-moves.js
+/run/showdown/sim/dex-moves.js.map
+/run/showdown/sim/dex-species.js
+/run/showdown/sim/dex-species.js.map
+/run/showdown/sim/field.js
+/run/showdown/sim/field.js.map
+/run/showdown/sim/index.js
+/run/showdown/sim/index.js.map
+/run/showdown/sim/pokemon.js
+/run/showdown/sim/pokemon.js.map
+/run/showdown/sim/prng.js
+/run/showdown/sim/prng.js.map
+/run/showdown/sim/side.js
+/run/showdown/sim/side.js.map
+/run/showdown/sim/state.js
+/run/showdown/sim/state.js.map
+/run/showdown/sim/team-validator.js
+/run/showdown/sim/team-validator.js.map
+/run/showdown/sim/teams.js
+/run/showdown/sim/teams.js.map
+/run/showdown/tools/modlog/converter.js
+/run/showdown/tools/modlog/converter.js.map
+/run/showdown/tools/set-import/importer.js
+/run/showdown/tools/set-import/importer.js.map
+/run/showdown/translations/dutch/helptickets.js
+/run/showdown/translations/dutch/helptickets.js.map
+/run/showdown/translations/dutch/main.js
+/run/showdown/translations/dutch/main.js.map
+/run/showdown/translations/dutch/minor-activities.js
+/run/showdown/translations/dutch/minor-activities.js.map
+/run/showdown/translations/english/core-commands.js
+/run/showdown/translations/english/core-commands.js.map
+/run/showdown/translations/english/helptickets.js
+/run/showdown/translations/english/helptickets.js.map
+/run/showdown/translations/english/main.js
+/run/showdown/translations/english/main.js.map
+/run/showdown/translations/english/minor-activities.js
+/run/showdown/translations/english/minor-activities.js.map
+/run/showdown/translations/english/repeats.js
+/run/showdown/translations/english/repeats.js.map
+/run/showdown/translations/english/trivia.js
+/run/showdown/translations/english/trivia.js.map
+/run/showdown/translations/french/core-commands.js
+/run/showdown/translations/french/core-commands.js.map
+/run/showdown/translations/french/main.js
+/run/showdown/translations/french/main.js.map
+/run/showdown/translations/french/minor-activities.js
+/run/showdown/translations/french/minor-activities.js.map
+/run/showdown/translations/german/core-commands.js
+/run/showdown/translations/german/core-commands.js.map
+/run/showdown/translations/german/helptickets.js
+/run/showdown/translations/german/helptickets.js.map
+/run/showdown/translations/german/main.js
+/run/showdown/translations/german/main.js.map
+/run/showdown/translations/german/minor-activities.js
+/run/showdown/translations/german/minor-activities.js.map
+/run/showdown/translations/german/repeats.js
+/run/showdown/translations/german/repeats.js.map
+/run/showdown/translations/hindi/main.js
+/run/showdown/translations/hindi/main.js.map
+/run/showdown/translations/italian/core-commands.js
+/run/showdown/translations/italian/core-commands.js.map
+/run/showdown/translations/italian/helptickets.js
+/run/showdown/translations/italian/helptickets.js.map
+/run/showdown/translations/italian/main.js
+/run/showdown/translations/italian/main.js.map
+/run/showdown/translations/italian/minor-activities.js
+/run/showdown/translations/italian/minor-activities.js.map
+/run/showdown/translations/italian/repeats.js
+/run/showdown/translations/italian/repeats.js.map
+/run/showdown/translations/japanese/core-commands.js
+/run/showdown/translations/japanese/core-commands.js.map
+/run/showdown/translations/japanese/helptickets.js
+/run/showdown/translations/japanese/helptickets.js.map
+/run/showdown/translations/japanese/main.js
+/run/showdown/translations/japanese/main.js.map
+/run/showdown/translations/japanese/minor-activities.js
+/run/showdown/translations/japanese/minor-activities.js.map
+/run/showdown/translations/japanese/repeats.js
+/run/showdown/translations/japanese/repeats.js.map
+/run/showdown/translations/portuguese/core-commands.js
+/run/showdown/translations/portuguese/core-commands.js.map
+/run/showdown/translations/portuguese/helptickets.js
+/run/showdown/translations/portuguese/helptickets.js.map
+/run/showdown/translations/portuguese/main.js
+/run/showdown/translations/portuguese/main.js.map
+/run/showdown/translations/portuguese/minor-activities.js
+/run/showdown/translations/portuguese/minor-activities.js.map
+/run/showdown/translations/simplifiedchinese/main.js
+/run/showdown/translations/simplifiedchinese/main.js.map
+/run/showdown/translations/simplifiedchinese/minor-activities.js
+/run/showdown/translations/simplifiedchinese/minor-activities.js.map
+/run/showdown/translations/spanish/core-commands.js
+/run/showdown/translations/spanish/core-commands.js.map
+/run/showdown/translations/spanish/helptickets.js
+/run/showdown/translations/spanish/helptickets.js.map
+/run/showdown/translations/spanish/main.js
+/run/showdown/translations/spanish/main.js.map
+/run/showdown/translations/spanish/minor-activities.js
+/run/showdown/translations/spanish/minor-activities.js.map
+/run/showdown/translations/spanish/repeats.js
+/run/showdown/translations/spanish/repeats.js.map
+/run/showdown/translations/traditionalchinese/main.js
+/run/showdown/translations/traditionalchinese/main.js.map
+/run/showdown/translations/traditionalchinese/minor-activities.js
+/run/showdown/translations/traditionalchinese/minor-activities.js.map
+/run/showdown/translations/turkish/main.js
+/run/showdown/translations/turkish/main.js.map
+/run/showdown/index.js
+/run/showdown/showdown.json
+/run/options.txt
+/run/usercache.json
