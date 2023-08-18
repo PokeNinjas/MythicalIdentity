@@ -37,46 +37,46 @@ public class LivingEntityRendererMixin<T extends LivingEntity, M extends EntityM
             locals = LocalCapture.CAPTURE_FAILHARD
     )
     private void mythicalidentity$CapturePlayerRender(T entity, float entityYaw, float partialTicks, PoseStack matrixStack, MultiBufferSource buffer, int packedLight, CallbackInfo ci, float f, float g, float h, float j, float i, float k, float l, Minecraft minecraft, boolean bl, boolean bl2, boolean bl3, RenderType renderType, VertexConsumer vertexConsumer){
-        if(Minecraft.getInstance().screen instanceof EffectRenderingInventoryScreen inventoryScreen && entity instanceof LocalPlayer) {
-            PoseStack stack = new PoseStack();
-            stack.setIdentity();
-            stack.mulPoseMatrix(RenderSystem.getModelViewStack().last().pose());
-            int mouseX = (int)(Minecraft.getInstance().mouseHandler.xpos() * (double)Minecraft.getInstance().getWindow().getGuiScaledWidth() / (double)Minecraft.getInstance().getWindow().getScreenWidth());
-            int mouseY = (int)(Minecraft.getInstance().mouseHandler.ypos() * (double)Minecraft.getInstance().getWindow().getGuiScaledHeight() / (double)Minecraft.getInstance().getWindow().getScreenHeight());
-            Vec3 ray = MousePicker.INSTANCE.getRay(RenderSystem.getProjectionMatrix(), stack.last().pose(),
-                    mouseX / (float) Minecraft.getInstance().getWindow().getGuiScaledWidth() * 2 - 1,
-                    mouseY / (float) Minecraft.getInstance().getWindow().getGuiScaledHeight() * 2 - 1);
-            Vec3 start = new Vec3(8,-37.5,0);
-            Vec3 end = start.add(ray.normalize().scale(1000f));
-            LivingEntityRenderer<T, ?> livingEntityRenderer = (LivingEntityRenderer<T, ?>) (Object) this;
-            Model model = livingEntityRenderer.getModel();
-            if(model instanceof AgeableListModel<?> ageableListModel){
-                ageableListModel.bodyParts().forEach(part -> {
-                    Hoverable hoverable = (Hoverable) (Object) part;
-                    hoverable.setRenderTypeReference(s -> livingEntityRenderer.getModel().renderType(s));
-                    hoverable.setHovered(hoverable.isHovered(start, end));
-                });
-                ageableListModel.headParts().forEach(part -> {
-                    Hoverable hoverable = (Hoverable) (Object) part;
-                    hoverable.setRenderTypeReference(s -> livingEntityRenderer.getModel().renderType(s));
-                    hoverable.setHovered(hoverable.isHovered(start, end));
-                });
-            }
-        } else {
-            LivingEntityRenderer<T, ?> livingEntityRenderer = (LivingEntityRenderer<T, ?>) (Object) this;
-            Model model = livingEntityRenderer.getModel();
-            if(model instanceof AgeableListModel<?> ageableListModel){
-                ageableListModel.bodyParts().forEach(part -> {
-                    Hoverable hoverable = (Hoverable) (Object) part;
-                    hoverable.setRenderTypeReference(s -> livingEntityRenderer.getModel().renderType(s));
-                    hoverable.setHovered(false);
-                });
-                ageableListModel.headParts().forEach(part -> {
-                    Hoverable hoverable = (Hoverable) (Object) part;
-                    hoverable.setRenderTypeReference(s -> livingEntityRenderer.getModel().renderType(s));
-                    hoverable.setHovered(false);
-                });
-            }
-        }
+//        if(Minecraft.getInstance().screen instanceof EffectRenderingInventoryScreen inventoryScreen && entity instanceof LocalPlayer) {
+//            PoseStack stack = new PoseStack();
+//            stack.setIdentity();
+//            stack.mulPoseMatrix(RenderSystem.getModelViewStack().last().pose());
+//            int mouseX = (int)(Minecraft.getInstance().mouseHandler.xpos() * (double)Minecraft.getInstance().getWindow().getGuiScaledWidth() / (double)Minecraft.getInstance().getWindow().getScreenWidth());
+//            int mouseY = (int)(Minecraft.getInstance().mouseHandler.ypos() * (double)Minecraft.getInstance().getWindow().getGuiScaledHeight() / (double)Minecraft.getInstance().getWindow().getScreenHeight());
+//            Vec3 ray = MousePicker.INSTANCE.getRay(RenderSystem.getProjectionMatrix(), stack.last().pose(),
+//                    mouseX / (float) Minecraft.getInstance().getWindow().getGuiScaledWidth() * 2 - 1,
+//                    mouseY / (float) Minecraft.getInstance().getWindow().getGuiScaledHeight() * 2 - 1);
+//            Vec3 start = new Vec3(8,-37.5,0);
+//            Vec3 end = start.add(ray.normalize().scale(1000f));
+//            LivingEntityRenderer<T, ?> livingEntityRenderer = (LivingEntityRenderer<T, ?>) (Object) this;
+//            Model model = livingEntityRenderer.getModel();
+//            if(model instanceof AgeableListModel<?> ageableListModel){
+//                ageableListModel.bodyParts().forEach(part -> {
+//                    Hoverable hoverable = (Hoverable) (Object) part;
+//                    hoverable.setRenderTypeReference(s -> livingEntityRenderer.getModel().renderType(s));
+//                    hoverable.setHovered(hoverable.isHovered(start, end));
+//                });
+//                ageableListModel.headParts().forEach(part -> {
+//                    Hoverable hoverable = (Hoverable) (Object) part;
+//                    hoverable.setRenderTypeReference(s -> livingEntityRenderer.getModel().renderType(s));
+//                    hoverable.setHovered(hoverable.isHovered(start, end));
+//                });
+//            }
+//        } else {
+//            LivingEntityRenderer<T, ?> livingEntityRenderer = (LivingEntityRenderer<T, ?>) (Object) this;
+//            Model model = livingEntityRenderer.getModel();
+//            if(model instanceof AgeableListModel<?> ageableListModel){
+//                ageableListModel.bodyParts().forEach(part -> {
+//                    Hoverable hoverable = (Hoverable) (Object) part;
+//                    hoverable.setRenderTypeReference(s -> livingEntityRenderer.getModel().renderType(s));
+//                    hoverable.setHovered(false);
+//                });
+//                ageableListModel.headParts().forEach(part -> {
+//                    Hoverable hoverable = (Hoverable) (Object) part;
+//                    hoverable.setRenderTypeReference(s -> livingEntityRenderer.getModel().renderType(s));
+//                    hoverable.setHovered(false);
+//                });
+//            }
+//        }
     }
 }
